@@ -241,18 +241,18 @@ location_dict = {"energy-A": [5984, 11968, 17952, 23936, 30056, 31688, 36176, 41
                  "wind-R": [8976, 10336]
 }
 
-dataset_name_dict = {"energy-A": "data/energy_random_anomalies_10_concepts_10000_per_cluster.npy",
-                     "energy-C": "data/energy_clustered_with_closest_assignment_10_concepts_10000_per_cluster.npy",
-                     "energy-R": "data/energy_clustered_with_random_assignment_10_concepts_10000_per_cluster.npy",
-                     "nslkdd-A": "data/nsl-kdd_random_anomalies_20_concepts_5000_per_cluster.npy",
-                     "nslkdd-C": "data/nsl-kdd_clustered_with_closest_assignment_20_concepts_5000_per_cluster.npy",
-                     "nslkdd-R": "data/nsl-kdd_clustered_with_random_assignment_20_concepts_5000_per_cluster.npy",
-                     "unsw-A": "data/unsw_random_anomalies_10_concepts_30000_per_cluster.npy", 
-                     "unsw-C": "data/unsw_clustered_with_closest_assignment_10_concepts_30000_per_cluster.npy",
-                     "unsw-R": "data/unsw_clustered_with_random_assignment_10_concepts_30000_per_cluster.npy",
-                     "wind-A": "data/wind_random_anomalies_5_concepts_15000_per_cluster.npy",
-                     "wind-C": "data/wind_clustered_with_closest_assignment_5_concepts_15000_per_cluster.npy",
-                     "wind-R": "data/wind_clustered_with_random_assignment_5_concepts_15000_per_cluster.npy"
+dataset_name_dict = {"energy-A": "Data/energy_random_anomalies_10_concepts_10000_per_cluster.npy",
+                     "energy-C": "Data/energy_clustered_with_closest_assignment_10_concepts_10000_per_cluster.npy",
+                     "energy-R": "Data/energy_clustered_with_random_assignment_10_concepts_10000_per_cluster.npy",
+                     "nslkdd-A": "Data/nsl-kdd_random_anomalies_20_concepts_5000_per_cluster.npy",
+                     "nslkdd-C": "Data/nsl-kdd_clustered_with_closest_assignment_20_concepts_5000_per_cluster.npy",
+                     "nslkdd-R": "Data/nsl-kdd_clustered_with_random_assignment_20_concepts_5000_per_cluster.npy",
+                     "unsw-A": "Data/unsw_random_anomalies_10_concepts_30000_per_cluster.npy", 
+                     "unsw-C": "Data/unsw_clustered_with_closest_assignment_10_concepts_30000_per_cluster.npy",
+                     "unsw-R": "Data/unsw_clustered_with_random_assignment_10_concepts_30000_per_cluster.npy",
+                     "wind-A": "Data/wind_random_anomalies_5_concepts_15000_per_cluster.npy",
+                     "wind-C": "Data/wind_clustered_with_closest_assignment_5_concepts_15000_per_cluster.npy",
+                     "wind-R": "Data/wind_clustered_with_random_assignment_5_concepts_15000_per_cluster.npy"
 }
 
 batch_size_dict = {"energy-A": 136,
