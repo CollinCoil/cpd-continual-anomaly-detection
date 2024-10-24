@@ -8,7 +8,7 @@ Use the following link to access the paper: To be added.
 
 Some datasets used in the paper can be accessed at [https://github.com/lifelonglab/lifelong-anomaly-detection-scenarios](https://github.com/lifelonglab/lifelong-anomaly-detection-scenarios), but some are also provided in this repository. 
 
-The code used to run the change point detection experiments is in the `cpd_distance_trials.py` file. Experimental results beyond those presented the paper can be found in `CAD_Full_Tables.pdf` and `consolidated_data.csv`. 
+The code used to run the change point detection experiments is in the `task-agnostic-anomaly-detection.py` file. Experimental results beyond those presented the paper can be found in `CAD_Full_Tables.pdf` and `consolidated_data.csv`. 
 
 # Citation
 A recommended citation is forthcoming. 
