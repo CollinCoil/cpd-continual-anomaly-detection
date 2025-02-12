@@ -899,186 +899,6 @@ Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.860666667,-0.14
 Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.916,-0.053,0.92,K Divergence,Wind R
 Replay,budget=0.2_compact_True,AutoEncoder,0.944,-0.07,0.632,K Divergence,Wind R
 Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.786,-0.145,0.586,K Divergence,Wind R
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.931454545,0.112666667,0.602444444,KL Divergence,Energy A
-Cumulative,,IsolationForest(random_state=0),0.753272727,-0.073555556,0.587777778,KL Divergence,Energy A
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.872909091,-0.043555556,0.853555556,KL Divergence,Energy A
-Cumulative,,AutoEncoder,0.883818182,0.093111111,0.708,KL Divergence,Energy A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.725272727,-0.081333333,0.660222222,KL Divergence,Energy A
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.643818182,-0.185333333,0.722444444,KL Divergence,Energy A
-Naive,,IsolationForest(random_state=0),0.560363636,-0.250888889,0.579777778,KL Divergence,Energy A
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.861818182,-0.065555556,0.887777778,KL Divergence,Energy A
-Naive,,AutoEncoder,0.666,-0.183777778,0.736888889,KL Divergence,Energy A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.584181818,-0.187111111,0.527777778,KL Divergence,Energy A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.916181818,0.119555556,0.596888889,KL Divergence,Energy A
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.726909091,-0.092888889,0.588222222,KL Divergence,Energy A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.927818182,-0.035333333,0.930666667,KL Divergence,Energy A
-Replay,budget=0.2_compact_True,AutoEncoder,0.863090909,0.094888889,0.673333333,KL Divergence,Energy A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.76,-0.108222222,0.713555556,KL Divergence,Energy A
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.921454545,0.103333333,0.766444444,KL Divergence,Energy C
-Cumulative,,IsolationForest(random_state=0),0.810909091,-0.001777778,0.629111111,KL Divergence,Energy C
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.886545455,-0.005333333,0.899555556,KL Divergence,Energy C
-Cumulative,,AutoEncoder,0.889090909,0.018888889,0.845333333,KL Divergence,Energy C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.712545455,-0.057777778,0.692444444,KL Divergence,Energy C
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.714,-0.179111111,0.804222222,KL Divergence,Energy C
-Naive,,IsolationForest(random_state=0),0.609454545,-0.193555556,0.607333333,KL Divergence,Energy C
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.844727273,-0.058888889,0.928888889,KL Divergence,Energy C
-Naive,,AutoEncoder,0.748,-0.132222222,0.813555556,KL Divergence,Energy C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.585090909,-0.245111111,0.590666667,KL Divergence,Energy C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.905818182,0.092,0.764,KL Divergence,Energy C
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.798,-0.018666667,0.630666667,KL Divergence,Energy C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.897272727,-0.011555556,0.940444444,KL Divergence,Energy C
-Replay,budget=0.2_compact_True,AutoEncoder,0.889818182,0.009777778,0.842222222,KL Divergence,Energy C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.760181818,-0.082,0.773333333,KL Divergence,Energy C
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.906545455,0.174,0.630666667,KL Divergence,Energy R
-Cumulative,,IsolationForest(random_state=0),0.763818182,-0.021333333,0.535111111,KL Divergence,Energy R
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.882,-0.03,0.851111111,KL Divergence,Energy R
-Cumulative,,AutoEncoder,0.864545455,0.174222222,0.666222222,KL Divergence,Energy R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.734727273,-0.046222222,0.639555556,KL Divergence,Energy R
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.665454545,-0.216,0.747777778,KL Divergence,Energy R
-Naive,,IsolationForest(random_state=0),0.604363636,-0.234888889,0.549777778,KL Divergence,Energy R
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.880545455,-0.051555556,0.896222222,KL Divergence,Energy R
-Naive,,AutoEncoder,0.689818182,-0.190444444,0.766444444,KL Divergence,Energy R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.589090909,-0.200222222,0.513555556,KL Divergence,Energy R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.894727273,0.193111111,0.601111111,KL Divergence,Energy R
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.757636364,-0.034,0.530888889,KL Divergence,Energy R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.932,-0.014666667,0.925333333,KL Divergence,Energy R
-Replay,budget=0.2_compact_True,AutoEncoder,0.863090909,0.197555556,0.669555556,KL Divergence,Energy R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.777272727,-0.061111111,0.693111111,KL Divergence,Energy R
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.414761905,0.051105263,0.361157895,KL Divergence,NSLKDD A
-Cumulative,,IsolationForest(random_state=0),0.730095238,0.023210526,0.717842105,KL Divergence,NSLKDD A
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.622857143,0.036263158,0.538684211,KL Divergence,NSLKDD A
-Cumulative,,AutoEncoder,0.658238095,0.035157895,0.601263158,KL Divergence,NSLKDD A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.750761905,-0.004684211,0.755105263,KL Divergence,NSLKDD A
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.414761905,0.051105263,0.361157895,KL Divergence,NSLKDD A
-Naive,,IsolationForest(random_state=0),0.730095238,0.023210526,0.717842105,KL Divergence,NSLKDD A
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.622857143,0.036263158,0.538684211,KL Divergence,NSLKDD A
-Naive,,AutoEncoder,0.800952381,0.016736842,0.787315789,KL Divergence,NSLKDD A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.750761905,-0.004684211,0.755105263,KL Divergence,NSLKDD A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.414761905,0.051105263,0.361157895,KL Divergence,NSLKDD A
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.730095238,0.023210526,0.717842105,KL Divergence,NSLKDD A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.622857143,0.036263158,0.538684211,KL Divergence,NSLKDD A
-Replay,budget=0.2_compact_True,AutoEncoder,0.691285714,0.030315789,0.622631579,KL Divergence,NSLKDD A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.750761905,-0.004684211,0.755105263,KL Divergence,NSLKDD A
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.644380952,0.026947368,0.594263158,KL Divergence,NSLKDD C
-Cumulative,,IsolationForest(random_state=0),0.739619048,0.009157895,0.853842105,KL Divergence,NSLKDD C
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.5,0.048105263,0.256368421,KL Divergence,NSLKDD C
-Cumulative,,AutoEncoder,0.684380952,0.018368421,0.819842105,KL Divergence,NSLKDD C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.777952381,-0.014947368,0.865105263,KL Divergence,NSLKDD C
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.644380952,0.026947368,0.594263158,KL Divergence,NSLKDD C
-Naive,,IsolationForest(random_state=0),0.739619048,0.009157895,0.853842105,KL Divergence,NSLKDD C
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.5,0.048105263,0.256368421,KL Divergence,NSLKDD C
-Naive,,AutoEncoder,0.753761905,0.020473684,0.659947368,KL Divergence,NSLKDD C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.777952381,-0.014947368,0.865105263,KL Divergence,NSLKDD C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.644380952,0.026947368,0.594263158,KL Divergence,NSLKDD C
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.739619048,0.009157895,0.853842105,KL Divergence,NSLKDD C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.5,0.048105263,0.256368421,KL Divergence,NSLKDD C
-Replay,budget=0.2_compact_True,AutoEncoder,0.752190476,0.011157895,0.792315789,KL Divergence,NSLKDD C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.777952381,-0.014947368,0.865105263,KL Divergence,NSLKDD C
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.568238095,0.030526316,0.577157895,KL Divergence,NSLKDD R
-Cumulative,,IsolationForest(random_state=0),0.710761905,0.008736842,0.687684211,KL Divergence,NSLKDD R
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.450095238,0.036526316,0.317,KL Divergence,NSLKDD R
-Cumulative,,AutoEncoder,0.827857143,0.005842105,0.750842105,KL Divergence,NSLKDD R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.739571429,-0.001263158,0.658157895,KL Divergence,NSLKDD R
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.568238095,0.030526316,0.577157895,KL Divergence,NSLKDD R
-Naive,,IsolationForest(random_state=0),0.710761905,0.008736842,0.687684211,KL Divergence,NSLKDD R
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.450095238,0.036526316,0.317,KL Divergence,NSLKDD R
-Naive,,AutoEncoder,0.676428571,0.018631579,0.632105263,KL Divergence,NSLKDD R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.739571429,-0.001263158,0.658157895,KL Divergence,NSLKDD R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.568238095,0.030526316,0.577157895,KL Divergence,NSLKDD R
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.710761905,0.008736842,0.687684211,KL Divergence,NSLKDD R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.450095238,0.036526316,0.317,KL Divergence,NSLKDD R
-Replay,budget=0.2_compact_True,AutoEncoder,0.760428571,0.011421053,0.679526316,KL Divergence,NSLKDD R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.739571429,-0.001263158,0.658157895,KL Divergence,NSLKDD R
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.630363636,0.316222222,0.219333333,KL Divergence,UNSW A
-Cumulative,,IsolationForest(random_state=0),0.456181818,0.053111111,0.39,KL Divergence,UNSW A
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.511272727,0.02,0.405777778,KL Divergence,UNSW A
-Cumulative,,AutoEncoder,0.513818182,0.121777778,0.323777778,KL Divergence,UNSW A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.482181818,0.089333333,0.366222222,KL Divergence,UNSW A
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.566727273,0.224222222,0.234444444,KL Divergence,UNSW A
-Naive,,IsolationForest(random_state=0),0.492181818,0.096666667,0.389111111,KL Divergence,UNSW A
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.533272727,0.042,0.405777778,KL Divergence,UNSW A
-Naive,,AutoEncoder,0.522181818,0.148444444,0.298,KL Divergence,UNSW A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.48,0.097555556,0.362,KL Divergence,UNSW A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.606909091,0.287777778,0.22,KL Divergence,UNSW A
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.485272727,0.072,0.390888889,KL Divergence,UNSW A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.528181818,0.038222222,0.406,KL Divergence,UNSW A
-Replay,budget=0.2_compact_True,AutoEncoder,0.509636364,0.141111111,0.293333333,KL Divergence,UNSW A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.487818182,0.088,0.367333333,KL Divergence,UNSW A
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.632727273,0.316888889,0.170888889,KL Divergence,UNSW C
-Cumulative,,IsolationForest(random_state=0),0.448545455,0.107111111,0.334444444,KL Divergence,UNSW C
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.344727273,0.150888889,0.205111111,KL Divergence,UNSW C
-Cumulative,,AutoEncoder,0.480363636,0.132222222,0.318666667,KL Divergence,UNSW C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.510909091,0.090888889,0.372222222,KL Divergence,UNSW C
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.578363636,0.225111111,0.191111111,KL Divergence,UNSW C
-Naive,,IsolationForest(random_state=0),0.466909091,0.121777778,0.331555556,KL Divergence,UNSW C
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.297636364,0.09,0.205333333,KL Divergence,UNSW C
-Naive,,AutoEncoder,0.510181818,0.178666667,0.273777778,KL Divergence,UNSW C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.49,0.071555556,0.361555556,KL Divergence,UNSW C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.625454545,0.308,0.171333333,KL Divergence,UNSW C
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.473636364,0.126222222,0.335333333,KL Divergence,UNSW C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.292363636,0.083333333,0.205333333,KL Divergence,UNSW C
-Replay,budget=0.2_compact_True,AutoEncoder,0.525272727,0.187555556,0.304666667,KL Divergence,UNSW C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.510727273,0.080888889,0.374888889,KL Divergence,UNSW C
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.887818182,0.021111111,0.393111111,KL Divergence,UNSW R
-Cumulative,,IsolationForest(random_state=0),0.700363636,-0.009555556,0.443777778,KL Divergence,UNSW R
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.608363636,0.096888889,0.236444444,KL Divergence,UNSW R
-Cumulative,,AutoEncoder,0.841454545,0.051333333,0.361111111,KL Divergence,UNSW R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.674363636,0.021555556,0.439111111,KL Divergence,UNSW R
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.792363636,-0.098444444,0.413555556,KL Divergence,UNSW R
-Naive,,IsolationForest(random_state=0),0.724909091,0.031333333,0.443777778,KL Divergence,UNSW R
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.544727273,0.023555556,0.236444444,KL Divergence,UNSW R
-Naive,,AutoEncoder,0.794181818,-0.097777778,0.373777778,KL Divergence,UNSW R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.660181818,0.004666667,0.436,KL Divergence,UNSW R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.835818182,-0.045333333,0.391555556,KL Divergence,UNSW R
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.713090909,-0.015777778,0.443777778,KL Divergence,UNSW R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.542727273,0.021111111,0.236444444,KL Divergence,UNSW R
-Replay,budget=0.2_compact_True,AutoEncoder,0.775454545,-0.051555556,0.365111111,KL Divergence,UNSW R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.679818182,0.011111111,0.436888889,KL Divergence,UNSW R
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.915333333,0.133,0.537,KL Divergence,Wind A
-Cumulative,,IsolationForest(random_state=0),0.819333333,0.206,0.621,KL Divergence,Wind A
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.9,0.016,0.905,KL Divergence,Wind A
-Cumulative,,AutoEncoder,0.866,0.155,0.548,KL Divergence,Wind A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.715333333,0.052,0.514,KL Divergence,Wind A
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.864666667,0.05,0.526,KL Divergence,Wind A
-Naive,,IsolationForest(random_state=0),0.710666667,0.051,0.641,KL Divergence,Wind A
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.904,-0.001,0.908,KL Divergence,Wind A
-Naive,,AutoEncoder,0.809333333,0.045,0.624,KL Divergence,Wind A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.672666667,0.018,0.499,KL Divergence,Wind A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.852666667,0.115,0.562,KL Divergence,Wind A
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.804666667,0.176,0.622,KL Divergence,Wind A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.930666667,0.032,0.912,KL Divergence,Wind A
-Replay,budget=0.2_compact_True,AutoEncoder,0.873333333,0.088,0.679,KL Divergence,Wind A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.757333333,0.059,0.528,KL Divergence,Wind A
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.919333333,0.099,0.631,KL Divergence,Wind C
-Cumulative,,IsolationForest(random_state=0),0.862,0.118,0.679,KL Divergence,Wind C
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.905333333,0.014,0.9,KL Divergence,Wind C
-Cumulative,,AutoEncoder,0.901333333,0.146,0.731,KL Divergence,Wind C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.715333333,0.052,0.52,KL Divergence,Wind C
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.868,-0.013,0.662,KL Divergence,Wind C
-Naive,,IsolationForest(random_state=0),0.782,0.06,0.669,KL Divergence,Wind C
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.896,0.002,0.899,KL Divergence,Wind C
-Naive,,AutoEncoder,0.863333333,0.008,0.771,KL Divergence,Wind C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.67,0.013,0.505,KL Divergence,Wind C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.902,0.061,0.649,KL Divergence,Wind C
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.844,0.112,0.7,KL Divergence,Wind C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.92,0.026,0.906,KL Divergence,Wind C
-Replay,budget=0.2_compact_True,AutoEncoder,0.882666667,0.091,0.736,KL Divergence,Wind C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.76,0.055,0.54,KL Divergence,Wind C
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.911333333,0.122,0.569,KL Divergence,Wind R
-Cumulative,,IsolationForest(random_state=0),0.781333333,0.201,0.649,KL Divergence,Wind R
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.88,0.037,0.892,KL Divergence,Wind R
-Cumulative,,AutoEncoder,0.898666667,0.083,0.66,KL Divergence,Wind R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.711333333,0.039,0.522,KL Divergence,Wind R
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.836666667,0.019,0.576,KL Divergence,Wind R
-Naive,,IsolationForest(random_state=0),0.728,0.041,0.626,KL Divergence,Wind R
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.897333333,0.017,0.894,KL Divergence,Wind R
-Naive,,AutoEncoder,0.793333333,-0.133,0.675,KL Divergence,Wind R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.669333333,0.006,0.501,KL Divergence,Wind R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.839333333,0.071,0.578,KL Divergence,Wind R
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.774666667,0.19,0.651,KL Divergence,Wind R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.914,0.04,0.899,KL Divergence,Wind R
-Replay,budget=0.2_compact_True,AutoEncoder,0.818666667,0.077,0.54,KL Divergence,Wind R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.754666667,0.041,0.548,KL Divergence,Wind R
 Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.957636364,0.055111111,0.617555556,Kulczynski,Energy A
 Cumulative,,IsolationForest(random_state=0),0.752545455,-0.076,0.569777778,Kulczynski,Energy A
 Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.867818182,-0.037777778,0.831111111,Kulczynski,Energy A
@@ -2339,723 +2159,543 @@ Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.779333333,0.024
 Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.921333333,-0.025,0.926,Vicis Sym Chi Square,Wind R
 Replay,budget=0.2_compact_True,AutoEncoder,0.830666667,-0.021,0.732,Vicis Sym Chi Square,Wind R
 Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.737333333,0.041,0.548,Vicis Sym Chi Square,Wind R
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.961272727,0.037111111,0.618444444,Vicis Wave Hedges,Energy A
-Cumulative,,IsolationForest(random_state=0),0.749818182,-0.080444444,0.569777778,Vicis Wave Hedges,Energy A
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.866727273,-0.035333333,0.829111111,Vicis Wave Hedges,Energy A
-Cumulative,,AutoEncoder,0.911272727,0.000444444,0.639555556,Vicis Wave Hedges,Energy A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.725636364,-0.098888889,0.605333333,Vicis Wave Hedges,Energy A
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.689818182,-0.319111111,0.673111111,Vicis Wave Hedges,Energy A
-Naive,,IsolationForest(random_state=0),0.632181818,-0.270222222,0.539777778,Vicis Wave Hedges,Energy A
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.914727273,-0.055777778,0.882,Vicis Wave Hedges,Energy A
-Naive,,AutoEncoder,0.735090909,-0.246888889,0.698444444,Vicis Wave Hedges,Energy A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.580727273,-0.401777778,0.499555556,Vicis Wave Hedges,Energy A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.951090909,0.021111111,0.608444444,Vicis Wave Hedges,Energy A
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.739636364,-0.121333333,0.560444444,Vicis Wave Hedges,Energy A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.924545455,-0.030444444,0.9,Vicis Wave Hedges,Energy A
-Replay,budget=0.2_compact_True,AutoEncoder,0.894181818,-0.014,0.668,Vicis Wave Hedges,Energy A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.770181818,-0.112666667,0.652222222,Vicis Wave Hedges,Energy A
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.937818182,0.05,0.78,Vicis Wave Hedges,Energy C
-Cumulative,,IsolationForest(random_state=0),0.805818182,0.017111111,0.625333333,Vicis Wave Hedges,Energy C
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.883090909,-0.002888889,0.888666667,Vicis Wave Hedges,Energy C
-Cumulative,,AutoEncoder,0.890727273,0.042444444,0.806444444,Vicis Wave Hedges,Energy C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.712181818,-0.056444444,0.628444444,Vicis Wave Hedges,Energy C
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.752363636,-0.217555556,0.788,Vicis Wave Hedges,Energy C
-Naive,,IsolationForest(random_state=0),0.634363636,-0.114,0.612444444,Vicis Wave Hedges,Energy C
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.851090909,-0.054222222,0.908888889,Vicis Wave Hedges,Energy C
-Naive,,AutoEncoder,0.776727273,-0.108,0.816888889,Vicis Wave Hedges,Energy C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.575272727,-0.251333333,0.506444444,Vicis Wave Hedges,Energy C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.920181818,0.040222222,0.775555556,Vicis Wave Hedges,Energy C
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.799272727,0.001777778,0.635111111,Vicis Wave Hedges,Energy C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.898909091,-0.004444444,0.925111111,Vicis Wave Hedges,Energy C
-Replay,budget=0.2_compact_True,AutoEncoder,0.882181818,0.058666667,0.823555556,Vicis Wave Hedges,Energy C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.760363636,-0.057777778,0.702,Vicis Wave Hedges,Energy C
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.941272727,0.089777778,0.643111111,Vicis Wave Hedges,Energy R
-Cumulative,,IsolationForest(random_state=0),0.771272727,-0.021333333,0.522444444,Vicis Wave Hedges,Energy R
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.881454545,-0.005111111,0.824444444,Vicis Wave Hedges,Energy R
-Cumulative,,AutoEncoder,0.909272727,0.040666667,0.665111111,Vicis Wave Hedges,Energy R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.738,-0.073333333,0.594666667,Vicis Wave Hedges,Energy R
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.757272727,-0.228666667,0.672666667,Vicis Wave Hedges,Energy R
-Naive,,IsolationForest(random_state=0),0.660545455,-0.187333333,0.519555556,Vicis Wave Hedges,Energy R
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.922363636,0.000666667,0.877777778,Vicis Wave Hedges,Energy R
-Naive,,AutoEncoder,0.783454545,-0.142222222,0.746666667,Vicis Wave Hedges,Energy R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.591090909,-0.361333333,0.501555556,Vicis Wave Hedges,Energy R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.934909091,0.075111111,0.621777778,Vicis Wave Hedges,Energy R
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.777636364,-0.044222222,0.502444444,Vicis Wave Hedges,Energy R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.932727273,-0.016,0.908444444,Vicis Wave Hedges,Energy R
-Replay,budget=0.2_compact_True,AutoEncoder,0.906909091,0.035777778,0.674666667,Vicis Wave Hedges,Energy R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.789454545,-0.068888889,0.633555556,Vicis Wave Hedges,Energy R
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.858666667,0.255210526,0.257052632,Vicis Wave Hedges,NSLKDD A
-Cumulative,,IsolationForest(random_state=0),0.93452381,0.081368421,0.834842105,Vicis Wave Hedges,NSLKDD A
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.912571429,0.056105263,0.763052632,Vicis Wave Hedges,NSLKDD A
-Cumulative,,AutoEncoder,0.965952381,-0.001842105,0.833368421,Vicis Wave Hedges,NSLKDD A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.727666667,-0.030368421,0.673526316,Vicis Wave Hedges,NSLKDD A
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.587,-0.151631579,0.554631579,Vicis Wave Hedges,NSLKDD A
-Naive,,IsolationForest(random_state=0),0.859952381,-0.022789474,0.753157895,Vicis Wave Hedges,NSLKDD A
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.695952381,-0.040105263,0.598736842,Vicis Wave Hedges,NSLKDD A
-Naive,,AutoEncoder,0.895190476,-0.095157895,0.829631579,Vicis Wave Hedges,NSLKDD A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.83,-0.140473684,0.752789474,Vicis Wave Hedges,NSLKDD A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.849666667,0.265526316,0.252736842,Vicis Wave Hedges,NSLKDD A
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.933666667,0.075,0.827315789,Vicis Wave Hedges,NSLKDD A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.879142857,0.058736842,0.705315789,Vicis Wave Hedges,NSLKDD A
-Replay,budget=0.2_compact_True,AutoEncoder,0.952714286,-0.019736842,0.849052632,Vicis Wave Hedges,NSLKDD A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.79747619,-0.088684211,0.779,Vicis Wave Hedges,NSLKDD A
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.880285714,0.076368421,0.350421053,Vicis Wave Hedges,NSLKDD C
-Cumulative,,IsolationForest(random_state=0),0.849428571,0.026578947,0.906263158,Vicis Wave Hedges,NSLKDD C
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.787761905,0.034,0.747789474,Vicis Wave Hedges,NSLKDD C
-Cumulative,,AutoEncoder,0.855666667,-0.074947368,0.914631579,Vicis Wave Hedges,NSLKDD C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.664666667,-0.048578947,0.690789474,Vicis Wave Hedges,NSLKDD C
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.562380952,-0.320368421,0.682157895,Vicis Wave Hedges,NSLKDD C
-Naive,,IsolationForest(random_state=0),0.671714286,-0.156789474,0.840105263,Vicis Wave Hedges,NSLKDD C
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.543,-0.028210526,0.358263158,Vicis Wave Hedges,NSLKDD C
-Naive,,AutoEncoder,0.631571429,-0.339263158,0.879631579,Vicis Wave Hedges,NSLKDD C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.621380952,-0.335473684,0.819421053,Vicis Wave Hedges,NSLKDD C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.879047619,0.031157895,0.393526316,Vicis Wave Hedges,NSLKDD C
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.850714286,0.001263158,0.919368421,Vicis Wave Hedges,NSLKDD C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.694380952,0.017210526,0.544631579,Vicis Wave Hedges,NSLKDD C
-Replay,budget=0.2_compact_True,AutoEncoder,0.851285714,-0.096157895,0.921684211,Vicis Wave Hedges,NSLKDD C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.703047619,-0.127894737,0.841631579,Vicis Wave Hedges,NSLKDD C
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.884,0.084052632,0.398526316,Vicis Wave Hedges,NSLKDD R
-Cumulative,,IsolationForest(random_state=0),0.805904762,-0.089736842,0.810368421,Vicis Wave Hedges,NSLKDD R
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.719666667,-0.009263158,0.607315789,Vicis Wave Hedges,NSLKDD R
-Cumulative,,AutoEncoder,0.861238095,-0.020315789,0.730421053,Vicis Wave Hedges,NSLKDD R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.708190476,-0.005157895,0.630578947,Vicis Wave Hedges,NSLKDD R
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.570571429,-0.295315789,0.591473684,Vicis Wave Hedges,NSLKDD R
-Naive,,IsolationForest(random_state=0),0.70852381,-0.233947368,0.738894737,Vicis Wave Hedges,NSLKDD R
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.517428571,-0.084473684,0.425578947,Vicis Wave Hedges,NSLKDD R
-Naive,,AutoEncoder,0.775809524,-0.185315789,0.756526316,Vicis Wave Hedges,NSLKDD R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.721285714,-0.180578947,0.682947368,Vicis Wave Hedges,NSLKDD R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.857666667,0.103,0.380684211,Vicis Wave Hedges,NSLKDD R
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.807666667,-0.099052632,0.815210526,Vicis Wave Hedges,NSLKDD R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.639761905,0.007,0.510210526,Vicis Wave Hedges,NSLKDD R
-Replay,budget=0.2_compact_True,AutoEncoder,0.883761905,-0.049105263,0.773631579,Vicis Wave Hedges,NSLKDD R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.755047619,-0.101473684,0.715,Vicis Wave Hedges,NSLKDD R
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.701818182,0.296666667,0.381111111,Vicis Wave Hedges,UNSW A
-Cumulative,,IsolationForest(random_state=0),0.467090909,0.105777778,0.364222222,Vicis Wave Hedges,UNSW A
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.496363636,0.072444444,0.374888889,Vicis Wave Hedges,UNSW A
-Cumulative,,AutoEncoder,0.557636364,0.149333333,0.375555556,Vicis Wave Hedges,UNSW A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.508545455,0.076888889,0.441555556,Vicis Wave Hedges,UNSW A
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.695272727,0.185777778,0.473777778,Vicis Wave Hedges,UNSW A
-Naive,,IsolationForest(random_state=0),0.599272727,0.106666667,0.474444444,Vicis Wave Hedges,UNSW A
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.592,0.157333333,0.417111111,Vicis Wave Hedges,UNSW A
-Naive,,AutoEncoder,0.567090909,0.079333333,0.467333333,Vicis Wave Hedges,UNSW A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.589636364,0.115777778,0.488666667,Vicis Wave Hedges,UNSW A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.648909091,0.253777778,0.356,Vicis Wave Hedges,UNSW A
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.515636364,0.148,0.376666667,Vicis Wave Hedges,UNSW A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.541454545,0.095555556,0.390222222,Vicis Wave Hedges,UNSW A
-Replay,budget=0.2_compact_True,AutoEncoder,0.555818182,0.171111111,0.358222222,Vicis Wave Hedges,UNSW A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.526545455,0.104888889,0.452444444,Vicis Wave Hedges,UNSW A
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.675090909,0.334666667,0.152666667,Vicis Wave Hedges,UNSW C
-Cumulative,,IsolationForest(random_state=0),0.481636364,0.126666667,0.364222222,Vicis Wave Hedges,UNSW C
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.384545455,0.120444444,0.242444444,Vicis Wave Hedges,UNSW C
-Cumulative,,AutoEncoder,0.536363636,0.198222222,0.303777778,Vicis Wave Hedges,UNSW C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.546727273,0.109333333,0.500222222,Vicis Wave Hedges,UNSW C
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.696909091,0.101777778,0.400222222,Vicis Wave Hedges,UNSW C
-Naive,,IsolationForest(random_state=0),0.643818182,0.153333333,0.398444444,Vicis Wave Hedges,UNSW C
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.239636364,0.042222222,0.184888889,Vicis Wave Hedges,UNSW C
-Naive,,AutoEncoder,0.587636364,0.112222222,0.421111111,Vicis Wave Hedges,UNSW C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.640545455,0.174888889,0.414444444,Vicis Wave Hedges,UNSW C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.658727273,0.28,0.159555556,Vicis Wave Hedges,UNSW C
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.496909091,0.178444444,0.314444444,Vicis Wave Hedges,UNSW C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.262545455,0.052,0.196444444,Vicis Wave Hedges,UNSW C
-Replay,budget=0.2_compact_True,AutoEncoder,0.505818182,0.19,0.310444444,Vicis Wave Hedges,UNSW C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.561454545,0.138888889,0.437333333,Vicis Wave Hedges,UNSW C
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.833090909,0.132222222,0.528888889,Vicis Wave Hedges,UNSW R
-Cumulative,,IsolationForest(random_state=0),0.674,0.064888889,0.450888889,Vicis Wave Hedges,UNSW R
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.656545455,0.075111111,0.292,Vicis Wave Hedges,UNSW R
-Cumulative,,AutoEncoder,0.854545455,0.171777778,0.422888889,Vicis Wave Hedges,UNSW R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.667454545,0.086666667,0.458444444,Vicis Wave Hedges,UNSW R
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.630181818,-0.061777778,0.304222222,Vicis Wave Hedges,UNSW R
-Naive,,IsolationForest(random_state=0),0.627636364,-0.081333333,0.333555556,Vicis Wave Hedges,UNSW R
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.499454545,0.046222222,0.176,Vicis Wave Hedges,UNSW R
-Naive,,AutoEncoder,0.782,-0.074444444,0.424888889,Vicis Wave Hedges,UNSW R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.623818182,-0.120666667,0.452666667,Vicis Wave Hedges,UNSW R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.838909091,0.029555556,0.438666667,Vicis Wave Hedges,UNSW R
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.684545455,0.047111111,0.451777778,Vicis Wave Hedges,UNSW R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.555090909,0.069777778,0.219111111,Vicis Wave Hedges,UNSW R
-Replay,budget=0.2_compact_True,AutoEncoder,0.764545455,0.014888889,0.499777778,Vicis Wave Hedges,UNSW R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.720181818,0.086222222,0.477777778,Vicis Wave Hedges,UNSW R
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.822,0.101,0.551,Vicis Wave Hedges,Wind A
-Cumulative,,IsolationForest(random_state=0),0.737333333,0.088,0.628,Vicis Wave Hedges,Wind A
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.885333333,-0.014,0.895,Vicis Wave Hedges,Wind A
-Cumulative,,AutoEncoder,0.808666667,0.053,0.673,Vicis Wave Hedges,Wind A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.688666667,0.053,0.496,Vicis Wave Hedges,Wind A
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.810666667,0.084,0.551,Vicis Wave Hedges,Wind A
-Naive,,IsolationForest(random_state=0),0.722666667,0.063,0.628,Vicis Wave Hedges,Wind A
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.887333333,-0.012,0.895,Vicis Wave Hedges,Wind A
-Naive,,AutoEncoder,0.828666667,0.051,0.692,Vicis Wave Hedges,Wind A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.686666667,0.045,0.496,Vicis Wave Hedges,Wind A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.822,0.101,0.551,Vicis Wave Hedges,Wind A
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.737333333,0.088,0.628,Vicis Wave Hedges,Wind A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.885333333,-0.014,0.895,Vicis Wave Hedges,Wind A
-Replay,budget=0.2_compact_True,AutoEncoder,0.815333333,0.07,0.615,Vicis Wave Hedges,Wind A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.688666667,0.053,0.496,Vicis Wave Hedges,Wind A
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.87,0.063,0.667,Vicis Wave Hedges,Wind C
-Cumulative,,IsolationForest(random_state=0),0.773333333,0.078,0.664,Vicis Wave Hedges,Wind C
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.888,0.002,0.894,Vicis Wave Hedges,Wind C
-Cumulative,,AutoEncoder,0.893333333,-0.004,0.615,Vicis Wave Hedges,Wind C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.686,0.054,0.5,Vicis Wave Hedges,Wind C
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.858666667,0.046,0.667,Vicis Wave Hedges,Wind C
-Naive,,IsolationForest(random_state=0),0.766666667,0.065,0.664,Vicis Wave Hedges,Wind C
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.884666667,-0.002,0.894,Vicis Wave Hedges,Wind C
-Naive,,AutoEncoder,0.816666667,0.054,0.764,Vicis Wave Hedges,Wind C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.682666667,0.044,0.5,Vicis Wave Hedges,Wind C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.87,0.063,0.667,Vicis Wave Hedges,Wind C
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.773333333,0.078,0.664,Vicis Wave Hedges,Wind C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.888,0.002,0.894,Vicis Wave Hedges,Wind C
-Replay,budget=0.2_compact_True,AutoEncoder,0.876666667,0.024,0.785,Vicis Wave Hedges,Wind C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.686,0.054,0.5,Vicis Wave Hedges,Wind C
-Cumulative,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.781333333,0.113,0.594,Vicis Wave Hedges,Wind R
-Cumulative,,IsolationForest(random_state=0),0.679333333,0.103,0.618,Vicis Wave Hedges,Wind R
-Cumulative,,COPOD(contamination=0.01_n_jobs=1),0.852666667,0.004,0.889,Vicis Wave Hedges,Wind R
-Cumulative,,AutoEncoder,0.763333333,0.088,0.499,Vicis Wave Hedges,Wind R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.687333333,0.052,0.496,Vicis Wave Hedges,Wind R
-Naive,,LocalOutlierFactor(n_neighbors=10_novelty=True),0.761333333,0.083,0.594,Vicis Wave Hedges,Wind R
-Naive,,IsolationForest(random_state=0),0.675333333,0.096,0.618,Vicis Wave Hedges,Wind R
-Naive,,COPOD(contamination=0.01_n_jobs=1),0.855333333,0.009,0.889,Vicis Wave Hedges,Wind R
-Naive,,AutoEncoder,0.72,0.044,0.534,Vicis Wave Hedges,Wind R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.684666667,0.044,0.496,Vicis Wave Hedges,Wind R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_neighbors=10_novelty=True),0.781333333,0.113,0.594,Vicis Wave Hedges,Wind R
-Replay,budget=0.2_compact_True,IsolationForest(random_state=0),0.679333333,0.103,0.618,Vicis Wave Hedges,Wind R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=1),0.852666667,0.004,0.889,Vicis Wave Hedges,Wind R
-Replay,budget=0.2_compact_True,AutoEncoder,0.752666667,0.094,0.665,Vicis Wave Hedges,Wind R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.687333333,0.052,0.496,Vicis Wave Hedges,Wind R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.995441176,-0.0005,0.46025,bhattacharyya,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.789264706,-0.122833333,0.640333333,bhattacharyya,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593308824,-0.078166667,0.587416667,bhattacharyya,CICIDS A
-Cumulative,,AutoEncoder,0.990514706,-0.00575,0.4925,bhattacharyya,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.567573529,-0.1655,0.472166667,bhattacharyya,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.544338235,-0.51525,0.48025,bhattacharyya,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.580735294,-0.470916667,0.526416667,bhattacharyya,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.744926471,-0.18875,0.711833333,bhattacharyya,CICIDS A
-Naive,,AutoEncoder,0.490588235,-0.565083333,0.512083333,bhattacharyya,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.499558824,-0.567166667,0.449333333,bhattacharyya,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.994779412,-0.0015,0.4595,bhattacharyya,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.788014706,-0.132833333,0.645916667,bhattacharyya,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.614191176,-0.081,0.640333333,bhattacharyya,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.975220588,-0.00775,0.53775,bhattacharyya,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.594705882,-0.138333333,0.4745,bhattacharyya,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.9825,0.091,0.52425,bhattacharyya,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.660661765,-0.15675,0.641416667,bhattacharyya,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.540808824,-0.13825,0.626583333,bhattacharyya,CICIDS C
-Cumulative,,AutoEncoder,0.962720588,0.091083333,0.716333333,bhattacharyya,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.625441176,-0.03125,0.66975,bhattacharyya,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.567794118,-0.34675,0.530833333,bhattacharyya,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.532058824,-0.375833333,0.576083333,bhattacharyya,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.42375,-0.162,0.497166667,bhattacharyya,CICIDS C
-Naive,,AutoEncoder,0.608014706,-0.234,0.626916667,bhattacharyya,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.524191176,-0.41425,0.6795,bhattacharyya,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.982720588,0.09375,0.51825,bhattacharyya,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.649338235,-0.166416667,0.642333333,bhattacharyya,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.450294118,-0.104083333,0.58025,bhattacharyya,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.942867647,0.042916667,0.781916667,bhattacharyya,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.647573529,0.013583333,0.75375,bhattacharyya,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.994705882,-0.0015,0.451416667,bhattacharyya,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.701617647,-0.247166667,0.641166667,bhattacharyya,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.546764706,-0.0635,0.548666667,bhattacharyya,CICIDS R
-Cumulative,,AutoEncoder,0.997720588,-0.002583333,0.566333333,bhattacharyya,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.634411765,-0.10375,0.532583333,bhattacharyya,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.562720588,-0.495416667,0.518083333,bhattacharyya,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.573823529,-0.455666667,0.54875,bhattacharyya,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.38,-0.199916667,0.4765,bhattacharyya,CICIDS R
-Naive,,AutoEncoder,0.559117647,-0.406,0.495916667,bhattacharyya,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586544118,-0.468583333,0.53825,bhattacharyya,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.996470588,-0.0015,0.4155,bhattacharyya,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.692720588,-0.262916667,0.641666667,bhattacharyya,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.427426471,-0.03275,0.526333333,bhattacharyya,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.974705882,0.01425,0.5875,bhattacharyya,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.661544118,-0.107,0.557083333,bhattacharyya,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.987279412,0.04725,0.45825,canberra,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.790294118,-0.113166667,0.640083333,canberra,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.594044118,-0.088,0.588166667,canberra,CICIDS A
-Cumulative,,AutoEncoder,0.981470588,0.07775,0.557083333,canberra,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.572426471,-0.1405,0.471833333,canberra,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.572647059,-0.431416667,0.448166667,canberra,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.548161765,-0.452166667,0.518166667,canberra,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.697058824,-0.3015,0.654916667,canberra,CICIDS A
-Naive,,AutoEncoder,0.661470588,-0.306416667,0.497583333,canberra,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.539411765,-0.482833333,0.49625,canberra,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983529412,0.054666667,0.451916667,canberra,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.791176471,-0.147666667,0.642583333,canberra,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.614852941,-0.131083333,0.640416667,canberra,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.946764706,0.00775,0.513833333,canberra,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.595294118,-0.1225,0.47275,canberra,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.953161765,0.106666667,0.538666667,canberra,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.666617647,-0.148083333,0.63525,canberra,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.527205882,-0.095666667,0.630666667,canberra,CICIDS C
-Cumulative,,AutoEncoder,0.965220588,0.126083333,0.715916667,canberra,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.624558824,-0.027583333,0.650583333,canberra,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.602426471,-0.332416667,0.495583333,canberra,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.565220588,-0.356666667,0.48375,canberra,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.475367647,-0.354083333,0.523666667,canberra,CICIDS C
-Naive,,AutoEncoder,0.5675,-0.21125,0.53725,canberra,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.572647059,-0.384333333,0.542,canberra,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.94375,0.0925,0.54125,canberra,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.700735294,-0.182666667,0.668916667,canberra,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.436691176,-0.133083333,0.5875,canberra,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.911691176,0.0955,0.68575,canberra,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.688308824,-0.051416667,0.733416667,canberra,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.980147059,0.073083333,0.452333333,canberra,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.693823529,-0.235833333,0.642416667,canberra,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.548235294,-0.064333333,0.549,canberra,CICIDS R
-Cumulative,,AutoEncoder,0.976617647,0.07475,0.560166667,canberra,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.649558824,-0.091833333,0.527916667,canberra,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.589338235,-0.40225,0.496,canberra,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.537573529,-0.428416667,0.508666667,canberra,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.415882353,-0.4625,0.478,canberra,CICIDS R
-Naive,,AutoEncoder,0.647058824,-0.365333333,0.577833333,canberra,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.578014706,-0.386583333,0.534833333,canberra,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.982794118,0.073416667,0.429,canberra,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.690073529,-0.261416667,0.65125,canberra,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.430808824,-0.103416667,0.51825,canberra,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.951691176,0.018583333,0.6335,canberra,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.681397059,-0.13775,0.559333333,canberra,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.995514706,-0.00125,0.45825,chebyshev,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.789264706,-0.127166667,0.638166667,chebyshev,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.594779412,-0.091666667,0.58825,chebyshev,CICIDS A
-Cumulative,,AutoEncoder,0.991764706,0.000166667,0.54675,chebyshev,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.566397059,-0.163083333,0.471,chebyshev,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.635220588,-0.4105,0.408666667,chebyshev,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.49625,-0.56925,0.50325,chebyshev,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.686764706,-0.331,0.654083333,chebyshev,CICIDS A
-Naive,,AutoEncoder,0.569632353,-0.48775,0.5585,chebyshev,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.524411765,-0.539,0.473583333,chebyshev,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.995441176,-0.002166667,0.432166667,chebyshev,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.793823529,-0.17175,0.644083333,chebyshev,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.615661765,-0.146666667,0.63925,chebyshev,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.961029412,0.026833333,0.606916667,chebyshev,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.591544118,-0.14675,0.46875,chebyshev,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.99625,-0.0005,0.52025,chebyshev,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.659044118,-0.22775,0.6405,chebyshev,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.546397059,-0.156083333,0.630916667,chebyshev,CICIDS C
-Cumulative,,AutoEncoder,0.990073529,-0.01125,0.775333333,chebyshev,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.624338235,-0.044,0.656833333,chebyshev,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.621544118,-0.425333333,0.440916667,chebyshev,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.549705882,-0.503083333,0.466583333,chebyshev,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.448014706,-0.489166667,0.512583333,chebyshev,CICIDS C
-Naive,,AutoEncoder,0.587058824,-0.421833333,0.656,chebyshev,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.561838235,-0.496583333,0.540583333,chebyshev,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.996838235,-0.000166667,0.515583333,chebyshev,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.653161765,-0.331083333,0.66375,chebyshev,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.453014706,-0.167916667,0.584166667,chebyshev,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.942279412,-0.028083333,0.731333333,chebyshev,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.667720588,-0.0885,0.727416667,chebyshev,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.994779412,-0.001666667,0.452333333,chebyshev,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.695147059,-0.2635,0.642083333,chebyshev,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.548455882,-0.07575,0.5485,chebyshev,CICIDS R
-Cumulative,,AutoEncoder,0.990661765,-0.010583333,0.615416667,chebyshev,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.634338235,-0.109083333,0.5315,chebyshev,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.610073529,-0.439416667,0.459166667,chebyshev,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.518161765,-0.52625,0.523833333,chebyshev,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.434926471,-0.411833333,0.4845,chebyshev,CICIDS R
-Naive,,AutoEncoder,0.591029412,-0.4635,0.620583333,chebyshev,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.575735294,-0.480833333,0.508083333,chebyshev,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.995882353,8.33E-05,0.42825,chebyshev,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.669852941,-0.315333333,0.6375,chebyshev,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.438897059,-0.108083333,0.52325,chebyshev,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.969411765,-0.034666667,0.552166667,chebyshev,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.661911765,-0.195,0.56,chebyshev,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979558824,0.073166667,0.46025,czekanowski,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.788529412,-0.09275,0.636916667,czekanowski,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.081083333,0.587166667,czekanowski,CICIDS A
-Cumulative,,AutoEncoder,0.973823529,0.060083333,0.57025,czekanowski,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.558602941,-0.150416667,0.471833333,czekanowski,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.575220588,-0.399833333,0.412666667,czekanowski,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.524117647,-0.444083333,0.54,czekanowski,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2975,0.652333333,czekanowski,CICIDS A
-Naive,,AutoEncoder,0.651691176,-0.303166667,0.5735,czekanowski,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.527132353,-0.452083333,0.470083333,czekanowski,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974485294,0.083416667,0.441333333,czekanowski,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.785661765,-0.127,0.6365,czekanowski,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.615661765,-0.133583333,0.634916667,czekanowski,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.915,0.022083333,0.464083333,czekanowski,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.579338235,-0.1095,0.473916667,czekanowski,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.981764706,0.081666667,0.538666667,czekanowski,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.658161765,-0.156833333,0.637166667,czekanowski,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.535367647,-0.109833333,0.629916667,czekanowski,CICIDS C
-Cumulative,,AutoEncoder,0.968014706,0.12275,0.694166667,czekanowski,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623382353,-0.063583333,0.658416667,czekanowski,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.591838235,-0.36275,0.4695,czekanowski,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.541397059,-0.379083333,0.507833333,czekanowski,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.453161765,-0.381166667,0.534583333,czekanowski,CICIDS C
-Naive,,AutoEncoder,0.621911765,-0.26275,0.6605,czekanowski,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.568455882,-0.41825,0.538916667,czekanowski,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976102941,0.072083333,0.514333333,czekanowski,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.67125,-0.213333333,0.663416667,czekanowski,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.441691176,-0.138083333,0.5875,czekanowski,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.944632353,0.0595,0.710833333,czekanowski,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.672132353,-0.0735,0.731416667,czekanowski,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983897059,0.05725,0.464666667,czekanowski,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696911765,-0.20875,0.638583333,czekanowski,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.545808824,-0.05725,0.544916667,czekanowski,CICIDS R
-Cumulative,,AutoEncoder,0.981764706,0.101166667,0.596166667,czekanowski,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619264706,-0.109416667,0.5375,czekanowski,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.582720588,-0.363,0.49725,czekanowski,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526911765,-0.431,0.539666667,czekanowski,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.444852941,-0.444166667,0.512083333,czekanowski,CICIDS R
-Naive,,AutoEncoder,0.62875,-0.30475,0.48425,czekanowski,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586102941,-0.37825,0.5085,czekanowski,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978382353,0.045666667,0.447416667,czekanowski,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.688014706,-0.246916667,0.632916667,czekanowski,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.449485294,-0.181833333,0.523583333,czekanowski,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.960955882,0.07175,0.6065,czekanowski,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.645808824,-0.14225,0.553916667,czekanowski,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979558824,0.073166667,0.46025,kulczynski,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.788529412,-0.09275,0.636916667,kulczynski,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.081083333,0.587166667,kulczynski,CICIDS A
-Cumulative,,AutoEncoder,0.973823529,0.060083333,0.57025,kulczynski,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.558602941,-0.150416667,0.471833333,kulczynski,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.575220588,-0.399833333,0.412666667,kulczynski,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.524117647,-0.444083333,0.54,kulczynski,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2975,0.652333333,kulczynski,CICIDS A
-Naive,,AutoEncoder,0.651691176,-0.303166667,0.5735,kulczynski,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.527132353,-0.452083333,0.470083333,kulczynski,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974485294,0.083416667,0.441333333,kulczynski,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.785661765,-0.127,0.6365,kulczynski,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.615661765,-0.133583333,0.634916667,kulczynski,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.915,0.022083333,0.464083333,kulczynski,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.579338235,-0.1095,0.473916667,kulczynski,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.981764706,0.081666667,0.538666667,kulczynski,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.658161765,-0.156833333,0.637166667,kulczynski,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.535367647,-0.109833333,0.629916667,kulczynski,CICIDS C
-Cumulative,,AutoEncoder,0.968014706,0.12275,0.694166667,kulczynski,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623382353,-0.063583333,0.658416667,kulczynski,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.591838235,-0.36275,0.4695,kulczynski,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.541397059,-0.379083333,0.507833333,kulczynski,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.453161765,-0.381166667,0.534583333,kulczynski,CICIDS C
-Naive,,AutoEncoder,0.621911765,-0.26275,0.6605,kulczynski,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.568455882,-0.41825,0.538916667,kulczynski,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976102941,0.072083333,0.514333333,kulczynski,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.67125,-0.213333333,0.663416667,kulczynski,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.441691176,-0.138083333,0.5875,kulczynski,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.944632353,0.0595,0.710833333,kulczynski,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.672132353,-0.0735,0.731416667,kulczynski,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983897059,0.05725,0.464666667,kulczynski,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696911765,-0.20875,0.638583333,kulczynski,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.545808824,-0.05725,0.544916667,kulczynski,CICIDS R
-Cumulative,,AutoEncoder,0.981764706,0.101166667,0.596166667,kulczynski,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619264706,-0.109416667,0.5375,kulczynski,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.582720588,-0.363,0.49725,kulczynski,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526911765,-0.431,0.539666667,kulczynski,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.444852941,-0.444166667,0.512083333,kulczynski,CICIDS R
-Naive,,AutoEncoder,0.62875,-0.30475,0.48425,kulczynski,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586102941,-0.37825,0.5085,kulczynski,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978382353,0.045666667,0.447416667,kulczynski,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.688014706,-0.246916667,0.632916667,kulczynski,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.449485294,-0.181833333,0.523583333,kulczynski,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.960955882,0.07175,0.6065,kulczynski,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.645808824,-0.14225,0.553916667,kulczynski,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.905955882,0.089333333,0.46275,k_divergence,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.793455882,-0.076083333,0.633833333,k_divergence,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.073,0.58975,k_divergence,CICIDS A
-Cumulative,,AutoEncoder,0.917794118,0.050833333,0.544083333,k_divergence,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.559558824,-0.16225,0.476166667,k_divergence,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.674338235,-0.247416667,0.421583333,k_divergence,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.441323529,-0.458916667,0.493333333,k_divergence,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2515,0.654916667,k_divergence,CICIDS A
-Naive,,AutoEncoder,0.543088235,-0.316333333,0.52,k_divergence,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.483382353,-0.432083333,0.4915,k_divergence,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.903308824,0.08275,0.441583333,k_divergence,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.793308824,-0.0975,0.631583333,k_divergence,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.62,-0.11875,0.6375,k_divergence,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.903161765,0.025083333,0.5925,k_divergence,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.572720588,-0.1395,0.479166667,k_divergence,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.956838235,0.079916667,0.56775,k_divergence,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.666617647,-0.150916667,0.6365,k_divergence,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.55,-0.13525,0.625166667,k_divergence,CICIDS C
-Cumulative,,AutoEncoder,0.941544118,0.07075,0.682666667,k_divergence,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.640073529,-0.042416667,0.66975,k_divergence,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613382353,-0.262833333,0.475666667,k_divergence,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.515073529,-0.37075,0.47475,k_divergence,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.472573529,-0.357833333,0.532916667,k_divergence,CICIDS C
-Naive,,AutoEncoder,0.585882353,-0.33575,0.74975,k_divergence,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.521470588,-0.4215,0.571083333,k_divergence,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.934338235,0.083833333,0.51075,k_divergence,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.650661765,-0.221833333,0.64675,k_divergence,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.451470588,-0.169583333,0.584166667,k_divergence,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.950441176,0.049583333,0.790166667,k_divergence,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.649485294,-0.023666667,0.7205,k_divergence,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.914779412,0.060916667,0.484833333,k_divergence,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.689926471,-0.196083333,0.638,k_divergence,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.527352941,-0.048,0.543333333,k_divergence,CICIDS R
-Cumulative,,AutoEncoder,0.897941176,0.033083333,0.575666667,k_divergence,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.587279412,-0.14575,0.555666667,k_divergence,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.660955882,-0.225,0.482416667,k_divergence,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.546176471,-0.407083333,0.551416667,k_divergence,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.456176471,-0.347833333,0.532166667,k_divergence,CICIDS R
-Naive,,AutoEncoder,0.645661765,-0.252333333,0.590583333,k_divergence,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.540294118,-0.32125,0.52725,k_divergence,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.922058824,0.0585,0.454583333,k_divergence,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.647573529,-0.265333333,0.640916667,k_divergence,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.420661765,-0.091583333,0.522083333,k_divergence,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.906544118,0.026083333,0.560333333,k_divergence,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.632867647,-0.159083333,0.58375,k_divergence,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979558824,0.073166667,0.46025,manhattan,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.788529412,-0.09275,0.636916667,manhattan,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.081083333,0.587166667,manhattan,CICIDS A
-Cumulative,,AutoEncoder,0.973823529,0.060083333,0.57025,manhattan,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.558602941,-0.150416667,0.471833333,manhattan,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.575220588,-0.399833333,0.412666667,manhattan,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.524117647,-0.444083333,0.54,manhattan,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2975,0.652333333,manhattan,CICIDS A
-Naive,,AutoEncoder,0.651691176,-0.303166667,0.5735,manhattan,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.527132353,-0.452083333,0.470083333,manhattan,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974485294,0.083416667,0.441333333,manhattan,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.785661765,-0.127,0.6365,manhattan,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.615661765,-0.133583333,0.634916667,manhattan,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.915,0.022083333,0.464083333,manhattan,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.579338235,-0.1095,0.473916667,manhattan,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.981764706,0.081666667,0.538666667,manhattan,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.658161765,-0.156833333,0.637166667,manhattan,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.535367647,-0.109833333,0.629916667,manhattan,CICIDS C
-Cumulative,,AutoEncoder,0.968014706,0.12275,0.694166667,manhattan,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623382353,-0.063583333,0.658416667,manhattan,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.591838235,-0.36275,0.4695,manhattan,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.541397059,-0.379083333,0.507833333,manhattan,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.453161765,-0.381166667,0.534583333,manhattan,CICIDS C
-Naive,,AutoEncoder,0.621911765,-0.26275,0.6605,manhattan,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.568455882,-0.41825,0.538916667,manhattan,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976102941,0.072083333,0.514333333,manhattan,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.67125,-0.213333333,0.663416667,manhattan,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.441691176,-0.138083333,0.5875,manhattan,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.944632353,0.0595,0.710833333,manhattan,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.672132353,-0.0735,0.731416667,manhattan,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983897059,0.05725,0.464666667,manhattan,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696911765,-0.20875,0.638583333,manhattan,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.545808824,-0.05725,0.544916667,manhattan,CICIDS R
-Cumulative,,AutoEncoder,0.981764706,0.101166667,0.596166667,manhattan,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619264706,-0.109416667,0.5375,manhattan,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.582720588,-0.363,0.49725,manhattan,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526911765,-0.431,0.539666667,manhattan,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.444852941,-0.444166667,0.512083333,manhattan,CICIDS R
-Naive,,AutoEncoder,0.62875,-0.30475,0.48425,manhattan,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586102941,-0.37825,0.5085,manhattan,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978382353,0.045666667,0.447416667,manhattan,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.688014706,-0.246916667,0.632916667,manhattan,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.449485294,-0.181833333,0.523583333,manhattan,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.960955882,0.07175,0.6065,manhattan,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.645808824,-0.14225,0.553916667,manhattan,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.952941176,0.170416667,0.445166667,neyman_chisq,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.785,0.031583333,0.61775,neyman_chisq,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.596397059,-0.030333333,0.58225,neyman_chisq,CICIDS A
-Cumulative,,AutoEncoder,0.955661765,0.229583333,0.51175,neyman_chisq,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.560661765,-0.011166667,0.464833333,neyman_chisq,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.635735294,-0.196,0.453583333,neyman_chisq,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.483308824,-0.325583333,0.486916667,neyman_chisq,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.738970588,-0.085416667,0.631,neyman_chisq,CICIDS A
-Naive,,AutoEncoder,0.685808824,-0.140416667,0.637833333,neyman_chisq,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.555808824,-0.236833333,0.451583333,neyman_chisq,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.955882353,0.157416667,0.446583333,neyman_chisq,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.793823529,0.022833333,0.615583333,neyman_chisq,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.623970588,-0.039,0.619583333,neyman_chisq,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.937573529,0.221666667,0.4565,neyman_chisq,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.586764706,0.041416667,0.47075,neyman_chisq,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.960147059,0.131166667,0.524083333,neyman_chisq,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.659338235,-0.098833333,0.646583333,neyman_chisq,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.557279412,-0.053416667,0.633583333,neyman_chisq,CICIDS C
-Cumulative,,AutoEncoder,0.971544118,0.042916667,0.729083333,neyman_chisq,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.628602941,0.01675,0.661416667,neyman_chisq,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.59375,-0.290083333,0.450333333,neyman_chisq,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.590514706,-0.223083333,0.469166667,neyman_chisq,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.409485294,-0.261916667,0.496333333,neyman_chisq,CICIDS C
-Naive,,AutoEncoder,0.682794118,-0.219166667,0.71275,neyman_chisq,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.544117647,-0.379166667,0.54775,neyman_chisq,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.965,0.081583333,0.51175,neyman_chisq,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.677352941,-0.144,0.646166667,neyman_chisq,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.469779412,-0.100166667,0.594166667,neyman_chisq,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.964852941,0.042333333,0.677,neyman_chisq,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.680294118,-0.076,0.747416667,neyman_chisq,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.943676471,0.16725,0.467583333,neyman_chisq,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.694264706,-0.229166667,0.644916667,neyman_chisq,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.550367647,-0.047,0.551666667,neyman_chisq,CICIDS R
-Cumulative,,AutoEncoder,0.947279412,0.07775,0.56425,neyman_chisq,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.628602941,-0.047666667,0.530583333,neyman_chisq,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.602794118,-0.218083333,0.457583333,neyman_chisq,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.54375,-0.445,0.48625,neyman_chisq,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.414411765,-0.434666667,0.468,neyman_chisq,CICIDS R
-Naive,,AutoEncoder,0.551985294,-0.388666667,0.542833333,neyman_chisq,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.555588235,-0.287833333,0.518833333,neyman_chisq,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.939044118,0.13175,0.443833333,neyman_chisq,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.664485294,-0.288583333,0.624,neyman_chisq,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.438676471,-0.161916667,0.529916667,neyman_chisq,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.928970588,0.07425,0.5455,neyman_chisq,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.668676471,-0.0615,0.545083333,neyman_chisq,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978970588,0.113833333,0.446333333,nonintersection,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.782573529,0.007333333,0.610166667,nonintersection,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.591544118,-0.055666667,0.580083333,nonintersection,CICIDS A
-Cumulative,,AutoEncoder,0.972794118,0.147666667,0.530583333,nonintersection,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.560441176,-0.051833333,0.468166667,nonintersection,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.571102941,-0.372916667,0.44375,nonintersection,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.545147059,-0.318833333,0.503333333,nonintersection,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.690147059,-0.193333333,0.6495,nonintersection,CICIDS A
-Naive,,AutoEncoder,0.545514706,-0.228,0.41,nonintersection,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.523455882,-0.362166667,0.481333333,nonintersection,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979044118,0.102916667,0.427916667,nonintersection,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.791102941,-0.01625,0.60725,nonintersection,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.611029412,-0.065916667,0.627,nonintersection,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.955661765,0.116083333,0.52625,nonintersection,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.584411765,-0.003166667,0.471416667,nonintersection,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.981838235,0.058,0.52025,nonintersection,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.665808824,-0.220666667,0.641666667,nonintersection,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.550735294,-0.124916667,0.631166667,nonintersection,CICIDS C
-Cumulative,,AutoEncoder,0.985,0.089,0.73275,nonintersection,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623308824,-0.007666667,0.654083333,nonintersection,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.628088235,-0.342916667,0.468,nonintersection,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.573602941,-0.418583333,0.50175,nonintersection,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.446911765,-0.454333333,0.516416667,nonintersection,CICIDS C
-Naive,,AutoEncoder,0.684558824,-0.223916667,0.592,nonintersection,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.575220588,-0.443916667,0.539083333,nonintersection,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974264706,0.083,0.519333333,nonintersection,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.661764706,-0.33575,0.644666667,nonintersection,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.454779412,-0.160916667,0.587916667,nonintersection,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.971544118,0.0315,0.716166667,nonintersection,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.664852941,-0.040166667,0.728,nonintersection,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.973014706,0.082166667,0.456333333,nonintersection,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696176471,-0.208333333,0.639416667,nonintersection,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.548308824,-0.04525,0.545416667,nonintersection,CICIDS R
-Cumulative,,AutoEncoder,0.979191176,0.092416667,0.647416667,nonintersection,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.627573529,-0.091083333,0.536166667,nonintersection,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.584852941,-0.3235,0.476416667,nonintersection,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.541102941,-0.42,0.534166667,nonintersection,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.458455882,-0.439166667,0.50025,nonintersection,CICIDS R
-Naive,,AutoEncoder,0.629926471,-0.334583333,0.574583333,nonintersection,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.567205882,-0.3705,0.5085,nonintersection,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.973970588,0.081166667,0.439083333,nonintersection,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.679117647,-0.24575,0.6395,nonintersection,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.434852941,-0.18675,0.5245,nonintersection,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.978308824,0.11375,0.612416667,nonintersection,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.661691176,-0.11375,0.552,nonintersection,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.977426471,0.094916667,0.46025,squaredchord,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.787205882,-0.067583333,0.641166667,squaredchord,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.591911765,-0.059833333,0.590083333,squaredchord,CICIDS A
-Cumulative,,AutoEncoder,0.967794118,0.132166667,0.524583333,squaredchord,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.55625,-0.13725,0.470916667,squaredchord,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.55375,-0.3465,0.400333333,squaredchord,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.517794118,-0.384583333,0.539416667,squaredchord,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.652867647,-0.255583333,0.645666667,squaredchord,CICIDS A
-Naive,,AutoEncoder,0.634779412,-0.2155,0.634416667,squaredchord,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.523823529,-0.400833333,0.464333333,squaredchord,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.967279412,0.158,0.441583333,squaredchord,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.777794118,-0.06475,0.633166667,squaredchord,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.614558824,-0.122416667,0.63775,squaredchord,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.950514706,0.117083333,0.54475,squaredchord,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.571323529,-0.075666667,0.47325,squaredchord,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.982573529,0.081666667,0.53225,squaredchord,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.650073529,-0.092666667,0.638333333,squaredchord,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.537279412,-0.104333333,0.6295,squaredchord,CICIDS C
-Cumulative,,AutoEncoder,0.970147059,0.07775,0.7175,squaredchord,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.622426471,-0.034666667,0.662666667,squaredchord,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.5975,-0.315583333,0.466833333,squaredchord,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.551176471,-0.443416667,0.552,squaredchord,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.453970588,-0.385916667,0.544333333,squaredchord,CICIDS C
-Naive,,AutoEncoder,0.604779412,-0.207,0.675333333,squaredchord,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.57625,-0.36775,0.544166667,squaredchord,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983823529,0.011916667,0.53425,squaredchord,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.661985294,-0.214166667,0.667833333,squaredchord,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.442058824,-0.128416667,0.58775,squaredchord,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.951102941,0.064666667,0.702083333,squaredchord,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.669338235,-0.035,0.736333333,squaredchord,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983970588,0.057333333,0.460083333,squaredchord,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.688602941,-0.135666667,0.643,squaredchord,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.538970588,-0.028333333,0.547416667,squaredchord,CICIDS R
-Cumulative,,AutoEncoder,0.971397059,0.14775,0.653166667,squaredchord,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.620735294,-0.079416667,0.539833333,squaredchord,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.567352941,-0.314166667,0.517583333,squaredchord,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.547720588,-0.326583333,0.550083333,squaredchord,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.437867647,-0.377,0.5245,squaredchord,CICIDS R
-Naive,,AutoEncoder,0.650588235,-0.207166667,0.627166667,squaredchord,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.593161765,-0.328583333,0.5015,squaredchord,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.969338235,0.131916667,0.412833333,squaredchord,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.676102941,-0.1695,0.643833333,squaredchord,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.445735294,-0.155666667,0.531166667,squaredchord,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.961176471,0.089916667,0.5875,squaredchord,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.631985294,-0.077916667,0.562416667,squaredchord,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979558824,0.073166667,0.46025,squared_chisq,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.788529412,-0.09275,0.636916667,squared_chisq,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.081083333,0.587166667,squared_chisq,CICIDS A
-Cumulative,,AutoEncoder,0.974705882,0.060833333,0.532416667,squared_chisq,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.558602941,-0.150416667,0.471833333,squared_chisq,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.575220588,-0.399833333,0.412666667,squared_chisq,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.524117647,-0.444083333,0.54,squared_chisq,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2975,0.652333333,squared_chisq,CICIDS A
-Naive,,AutoEncoder,0.659117647,-0.298583333,0.636166667,squared_chisq,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.527132353,-0.452083333,0.470083333,squared_chisq,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.975661765,0.065833333,0.458083333,squared_chisq,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.781029412,-0.128916667,0.634583333,squared_chisq,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.615808824,-0.134166667,0.635583333,squared_chisq,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.953088235,0.041166667,0.556916667,squared_chisq,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.578823529,-0.10925,0.473416667,squared_chisq,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.982573529,0.081666667,0.538666667,squared_chisq,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.658161765,-0.156833333,0.637166667,squared_chisq,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.535367647,-0.109833333,0.629916667,squared_chisq,CICIDS C
-Cumulative,,AutoEncoder,0.983676471,0.079666667,0.751083333,squared_chisq,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623382353,-0.063583333,0.658416667,squared_chisq,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.602352941,-0.35175,0.469833333,squared_chisq,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.544117647,-0.386083333,0.51175,squared_chisq,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.450514706,-0.381833333,0.53325,squared_chisq,CICIDS C
-Naive,,AutoEncoder,0.624485294,-0.250333333,0.659083333,squared_chisq,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.567794118,-0.419,0.543083333,squared_chisq,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976323529,0.071916667,0.514,squared_chisq,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.662426471,-0.226083333,0.64875,squared_chisq,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.440661765,-0.1375,0.5875,squared_chisq,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.965220588,0.029333333,0.734333333,squared_chisq,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.672205882,-0.073416667,0.733583333,squared_chisq,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983897059,0.05725,0.464666667,squared_chisq,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696911765,-0.20875,0.638583333,squared_chisq,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.545808824,-0.05725,0.544916667,squared_chisq,CICIDS R
-Cumulative,,AutoEncoder,0.979264706,0.068666667,0.644333333,squared_chisq,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619264706,-0.109416667,0.5375,squared_chisq,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.582720588,-0.36375,0.49725,squared_chisq,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526911765,-0.431,0.539666667,squared_chisq,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.444852941,-0.444166667,0.512083333,squared_chisq,CICIDS R
-Naive,,AutoEncoder,0.579558824,-0.408333333,0.598666667,squared_chisq,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586102941,-0.37825,0.5085,squared_chisq,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978602941,0.048333333,0.4505,squared_chisq,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.681691176,-0.248833333,0.64125,squared_chisq,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.449485294,-0.18425,0.5235,squared_chisq,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.96625,0.031333333,0.61875,squared_chisq,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.645073529,-0.14525,0.55425,squared_chisq,CICIDS R
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.956764706,0.118416667,0.46125,vicis_symmetric_chisq,CICIDS A
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.781911765,0.07975,0.613583333,vicis_symmetric_chisq,CICIDS A
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.595955882,-0.017166667,0.584166667,vicis_symmetric_chisq,CICIDS A
-Cumulative,,AutoEncoder,0.958970588,0.208,0.52375,vicis_symmetric_chisq,CICIDS A
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.562867647,-0.033833333,0.457333333,vicis_symmetric_chisq,CICIDS A
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.645,-0.212083333,0.51825,vicis_symmetric_chisq,CICIDS A
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.470367647,-0.302666667,0.457166667,vicis_symmetric_chisq,CICIDS A
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.740588235,-0.057583333,0.659583333,vicis_symmetric_chisq,CICIDS A
-Naive,,AutoEncoder,0.511911765,-0.292583333,0.549833333,vicis_symmetric_chisq,CICIDS A
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.558529412,-0.259,0.469416667,vicis_symmetric_chisq,CICIDS A
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.960735294,0.109666667,0.46025,vicis_symmetric_chisq,CICIDS A
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.793088235,0.02775,0.626583333,vicis_symmetric_chisq,CICIDS A
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.622720588,-0.028416667,0.631666667,vicis_symmetric_chisq,CICIDS A
-Replay,budget=0.2_compact_True,AutoEncoder,0.951764706,0.178,0.4905,vicis_symmetric_chisq,CICIDS A
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.593529412,-0.011166667,0.465916667,vicis_symmetric_chisq,CICIDS A
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974926471,0.066833333,0.555333333,vicis_symmetric_chisq,CICIDS C
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.662205882,-0.121083333,0.645833333,vicis_symmetric_chisq,CICIDS C
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.527279412,-0.125333333,0.626833333,vicis_symmetric_chisq,CICIDS C
-Cumulative,,AutoEncoder,0.967867647,0.160916667,0.737583333,vicis_symmetric_chisq,CICIDS C
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619926471,-0.037333333,0.661333333,vicis_symmetric_chisq,CICIDS C
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.564411765,-0.323583333,0.540416667,vicis_symmetric_chisq,CICIDS C
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526102941,-0.302583333,0.450166667,vicis_symmetric_chisq,CICIDS C
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.446176471,-0.3195,0.527666667,vicis_symmetric_chisq,CICIDS C
-Naive,,AutoEncoder,0.492647059,-0.442583333,0.62275,vicis_symmetric_chisq,CICIDS C
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.522279412,-0.42525,0.602833333,vicis_symmetric_chisq,CICIDS C
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976029412,0.064583333,0.53325,vicis_symmetric_chisq,CICIDS C
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.651323529,-0.201833333,0.633416667,vicis_symmetric_chisq,CICIDS C
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.447058824,-0.136083333,0.58125,vicis_symmetric_chisq,CICIDS C
-Replay,budget=0.2_compact_True,AutoEncoder,0.941838235,0.042666667,0.743333333,vicis_symmetric_chisq,CICIDS C
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.651102941,-0.045,0.730916667,vicis_symmetric_chisq,CICIDS C
-Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.973676471,0.064,0.472833333,vicis_symmetric_chisq,CICIDS R
-Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.692867647,-0.132166667,0.634333333,vicis_symmetric_chisq,CICIDS R
-Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.539779412,-0.063583333,0.549416667,vicis_symmetric_chisq,CICIDS R
-Cumulative,,AutoEncoder,0.972941176,0.073166667,0.578333333,vicis_symmetric_chisq,CICIDS R
-Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.645514706,-0.091666667,0.5295,vicis_symmetric_chisq,CICIDS R
-Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.571838235,-0.3675,0.526333333,vicis_symmetric_chisq,CICIDS R
-Naive,,IsolationForest(n_jobs=-1_random_state=0),0.48875,-0.346,0.468666667,vicis_symmetric_chisq,CICIDS R
-Naive,,COPOD(contamination=0.01_n_jobs=-1),0.405367647,-0.38175,0.490416667,vicis_symmetric_chisq,CICIDS R
-Naive,,AutoEncoder,0.591544118,-0.37075,0.568916667,vicis_symmetric_chisq,CICIDS R
-Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.603161765,-0.333083333,0.517833333,vicis_symmetric_chisq,CICIDS R
-Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974485294,0.066583333,0.445583333,vicis_symmetric_chisq,CICIDS R
-Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.67875,-0.211583333,0.639333333,vicis_symmetric_chisq,CICIDS R
-Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.437058824,-0.089583333,0.529083333,vicis_symmetric_chisq,CICIDS R
-Replay,budget=0.2_compact_True,AutoEncoder,0.920955882,0.0265,0.5985,vicis_symmetric_chisq,CICIDS R
-Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.682941176,-0.1265,0.5615,vicis_symmetric_chisq,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.995441176,-0.0005,0.46025,Bhattacharyya,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.789264706,-0.122833333,0.640333333,Bhattacharyya,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593308824,-0.078166667,0.587416667,Bhattacharyya,CICIDS A
+Cumulative,,AutoEncoder,0.990514706,-0.00575,0.4925,Bhattacharyya,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.567573529,-0.1655,0.472166667,Bhattacharyya,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.544338235,-0.51525,0.48025,Bhattacharyya,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.580735294,-0.470916667,0.526416667,Bhattacharyya,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.744926471,-0.18875,0.711833333,Bhattacharyya,CICIDS A
+Naive,,AutoEncoder,0.490588235,-0.565083333,0.512083333,Bhattacharyya,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.499558824,-0.567166667,0.449333333,Bhattacharyya,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.994779412,-0.0015,0.4595,Bhattacharyya,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.788014706,-0.132833333,0.645916667,Bhattacharyya,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.614191176,-0.081,0.640333333,Bhattacharyya,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.975220588,-0.00775,0.53775,Bhattacharyya,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.594705882,-0.138333333,0.4745,Bhattacharyya,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.9825,0.091,0.52425,Bhattacharyya,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.660661765,-0.15675,0.641416667,Bhattacharyya,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.540808824,-0.13825,0.626583333,Bhattacharyya,CICIDS C
+Cumulative,,AutoEncoder,0.962720588,0.091083333,0.716333333,Bhattacharyya,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.625441176,-0.03125,0.66975,Bhattacharyya,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.567794118,-0.34675,0.530833333,Bhattacharyya,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.532058824,-0.375833333,0.576083333,Bhattacharyya,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.42375,-0.162,0.497166667,Bhattacharyya,CICIDS C
+Naive,,AutoEncoder,0.608014706,-0.234,0.626916667,Bhattacharyya,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.524191176,-0.41425,0.6795,Bhattacharyya,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.982720588,0.09375,0.51825,Bhattacharyya,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.649338235,-0.166416667,0.642333333,Bhattacharyya,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.450294118,-0.104083333,0.58025,Bhattacharyya,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.942867647,0.042916667,0.781916667,Bhattacharyya,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.647573529,0.013583333,0.75375,Bhattacharyya,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.994705882,-0.0015,0.451416667,Bhattacharyya,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.701617647,-0.247166667,0.641166667,Bhattacharyya,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.546764706,-0.0635,0.548666667,Bhattacharyya,CICIDS R
+Cumulative,,AutoEncoder,0.997720588,-0.002583333,0.566333333,Bhattacharyya,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.634411765,-0.10375,0.532583333,Bhattacharyya,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.562720588,-0.495416667,0.518083333,Bhattacharyya,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.573823529,-0.455666667,0.54875,Bhattacharyya,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.38,-0.199916667,0.4765,Bhattacharyya,CICIDS R
+Naive,,AutoEncoder,0.559117647,-0.406,0.495916667,Bhattacharyya,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586544118,-0.468583333,0.53825,Bhattacharyya,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.996470588,-0.0015,0.4155,Bhattacharyya,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.692720588,-0.262916667,0.641666667,Bhattacharyya,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.427426471,-0.03275,0.526333333,Bhattacharyya,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.974705882,0.01425,0.5875,Bhattacharyya,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.661544118,-0.107,0.557083333,Bhattacharyya,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.987279412,0.04725,0.45825,Canberra,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.790294118,-0.113166667,0.640083333,Canberra,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.594044118,-0.088,0.588166667,Canberra,CICIDS A
+Cumulative,,AutoEncoder,0.981470588,0.07775,0.557083333,Canberra,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.572426471,-0.1405,0.471833333,Canberra,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.572647059,-0.431416667,0.448166667,Canberra,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.548161765,-0.452166667,0.518166667,Canberra,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.697058824,-0.3015,0.654916667,Canberra,CICIDS A
+Naive,,AutoEncoder,0.661470588,-0.306416667,0.497583333,Canberra,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.539411765,-0.482833333,0.49625,Canberra,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983529412,0.054666667,0.451916667,Canberra,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.791176471,-0.147666667,0.642583333,Canberra,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.614852941,-0.131083333,0.640416667,Canberra,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.946764706,0.00775,0.513833333,Canberra,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.595294118,-0.1225,0.47275,Canberra,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.953161765,0.106666667,0.538666667,Canberra,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.666617647,-0.148083333,0.63525,Canberra,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.527205882,-0.095666667,0.630666667,Canberra,CICIDS C
+Cumulative,,AutoEncoder,0.965220588,0.126083333,0.715916667,Canberra,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.624558824,-0.027583333,0.650583333,Canberra,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.602426471,-0.332416667,0.495583333,Canberra,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.565220588,-0.356666667,0.48375,Canberra,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.475367647,-0.354083333,0.523666667,Canberra,CICIDS C
+Naive,,AutoEncoder,0.5675,-0.21125,0.53725,Canberra,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.572647059,-0.384333333,0.542,Canberra,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.94375,0.0925,0.54125,Canberra,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.700735294,-0.182666667,0.668916667,Canberra,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.436691176,-0.133083333,0.5875,Canberra,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.911691176,0.0955,0.68575,Canberra,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.688308824,-0.051416667,0.733416667,Canberra,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.980147059,0.073083333,0.452333333,Canberra,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.693823529,-0.235833333,0.642416667,Canberra,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.548235294,-0.064333333,0.549,Canberra,CICIDS R
+Cumulative,,AutoEncoder,0.976617647,0.07475,0.560166667,Canberra,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.649558824,-0.091833333,0.527916667,Canberra,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.589338235,-0.40225,0.496,Canberra,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.537573529,-0.428416667,0.508666667,Canberra,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.415882353,-0.4625,0.478,Canberra,CICIDS R
+Naive,,AutoEncoder,0.647058824,-0.365333333,0.577833333,Canberra,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.578014706,-0.386583333,0.534833333,Canberra,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.982794118,0.073416667,0.429,Canberra,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.690073529,-0.261416667,0.65125,Canberra,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.430808824,-0.103416667,0.51825,Canberra,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.951691176,0.018583333,0.6335,Canberra,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.681397059,-0.13775,0.559333333,Canberra,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979558824,0.073166667,0.46025,Czekanowski,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.788529412,-0.09275,0.636916667,Czekanowski,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.081083333,0.587166667,Czekanowski,CICIDS A
+Cumulative,,AutoEncoder,0.973823529,0.060083333,0.57025,Czekanowski,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.558602941,-0.150416667,0.471833333,Czekanowski,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.575220588,-0.399833333,0.412666667,Czekanowski,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.524117647,-0.444083333,0.54,Czekanowski,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2975,0.652333333,Czekanowski,CICIDS A
+Naive,,AutoEncoder,0.651691176,-0.303166667,0.5735,Czekanowski,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.527132353,-0.452083333,0.470083333,Czekanowski,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974485294,0.083416667,0.441333333,Czekanowski,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.785661765,-0.127,0.6365,Czekanowski,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.615661765,-0.133583333,0.634916667,Czekanowski,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.915,0.022083333,0.464083333,Czekanowski,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.579338235,-0.1095,0.473916667,Czekanowski,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.981764706,0.081666667,0.538666667,Czekanowski,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.658161765,-0.156833333,0.637166667,Czekanowski,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.535367647,-0.109833333,0.629916667,Czekanowski,CICIDS C
+Cumulative,,AutoEncoder,0.968014706,0.12275,0.694166667,Czekanowski,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623382353,-0.063583333,0.658416667,Czekanowski,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.591838235,-0.36275,0.4695,Czekanowski,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.541397059,-0.379083333,0.507833333,Czekanowski,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.453161765,-0.381166667,0.534583333,Czekanowski,CICIDS C
+Naive,,AutoEncoder,0.621911765,-0.26275,0.6605,Czekanowski,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.568455882,-0.41825,0.538916667,Czekanowski,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976102941,0.072083333,0.514333333,Czekanowski,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.67125,-0.213333333,0.663416667,Czekanowski,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.441691176,-0.138083333,0.5875,Czekanowski,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.944632353,0.0595,0.710833333,Czekanowski,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.672132353,-0.0735,0.731416667,Czekanowski,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983897059,0.05725,0.464666667,Czekanowski,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696911765,-0.20875,0.638583333,Czekanowski,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.545808824,-0.05725,0.544916667,Czekanowski,CICIDS R
+Cumulative,,AutoEncoder,0.981764706,0.101166667,0.596166667,Czekanowski,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619264706,-0.109416667,0.5375,Czekanowski,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.582720588,-0.363,0.49725,Czekanowski,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526911765,-0.431,0.539666667,Czekanowski,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.444852941,-0.444166667,0.512083333,Czekanowski,CICIDS R
+Naive,,AutoEncoder,0.62875,-0.30475,0.48425,Czekanowski,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586102941,-0.37825,0.5085,Czekanowski,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978382353,0.045666667,0.447416667,Czekanowski,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.688014706,-0.246916667,0.632916667,Czekanowski,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.449485294,-0.181833333,0.523583333,Czekanowski,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.960955882,0.07175,0.6065,Czekanowski,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.645808824,-0.14225,0.553916667,Czekanowski,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979558824,0.073166667,0.46025,Kulczynski,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.788529412,-0.09275,0.636916667,Kulczynski,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.081083333,0.587166667,Kulczynski,CICIDS A
+Cumulative,,AutoEncoder,0.973823529,0.060083333,0.57025,Kulczynski,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.558602941,-0.150416667,0.471833333,Kulczynski,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.575220588,-0.399833333,0.412666667,Kulczynski,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.524117647,-0.444083333,0.54,Kulczynski,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2975,0.652333333,Kulczynski,CICIDS A
+Naive,,AutoEncoder,0.651691176,-0.303166667,0.5735,Kulczynski,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.527132353,-0.452083333,0.470083333,Kulczynski,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974485294,0.083416667,0.441333333,Kulczynski,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.785661765,-0.127,0.6365,Kulczynski,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.615661765,-0.133583333,0.634916667,Kulczynski,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.915,0.022083333,0.464083333,Kulczynski,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.579338235,-0.1095,0.473916667,Kulczynski,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.981764706,0.081666667,0.538666667,Kulczynski,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.658161765,-0.156833333,0.637166667,Kulczynski,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.535367647,-0.109833333,0.629916667,Kulczynski,CICIDS C
+Cumulative,,AutoEncoder,0.968014706,0.12275,0.694166667,Kulczynski,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623382353,-0.063583333,0.658416667,Kulczynski,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.591838235,-0.36275,0.4695,Kulczynski,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.541397059,-0.379083333,0.507833333,Kulczynski,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.453161765,-0.381166667,0.534583333,Kulczynski,CICIDS C
+Naive,,AutoEncoder,0.621911765,-0.26275,0.6605,Kulczynski,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.568455882,-0.41825,0.538916667,Kulczynski,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976102941,0.072083333,0.514333333,Kulczynski,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.67125,-0.213333333,0.663416667,Kulczynski,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.441691176,-0.138083333,0.5875,Kulczynski,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.944632353,0.0595,0.710833333,Kulczynski,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.672132353,-0.0735,0.731416667,Kulczynski,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983897059,0.05725,0.464666667,Kulczynski,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696911765,-0.20875,0.638583333,Kulczynski,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.545808824,-0.05725,0.544916667,Kulczynski,CICIDS R
+Cumulative,,AutoEncoder,0.981764706,0.101166667,0.596166667,Kulczynski,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619264706,-0.109416667,0.5375,Kulczynski,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.582720588,-0.363,0.49725,Kulczynski,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526911765,-0.431,0.539666667,Kulczynski,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.444852941,-0.444166667,0.512083333,Kulczynski,CICIDS R
+Naive,,AutoEncoder,0.62875,-0.30475,0.48425,Kulczynski,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586102941,-0.37825,0.5085,Kulczynski,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978382353,0.045666667,0.447416667,Kulczynski,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.688014706,-0.246916667,0.632916667,Kulczynski,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.449485294,-0.181833333,0.523583333,Kulczynski,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.960955882,0.07175,0.6065,Kulczynski,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.645808824,-0.14225,0.553916667,Kulczynski,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.905955882,0.089333333,0.46275,K Divergence,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.793455882,-0.076083333,0.633833333,K Divergence,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.073,0.58975,K Divergence,CICIDS A
+Cumulative,,AutoEncoder,0.917794118,0.050833333,0.544083333,K Divergence,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.559558824,-0.16225,0.476166667,K Divergence,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.674338235,-0.247416667,0.421583333,K Divergence,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.441323529,-0.458916667,0.493333333,K Divergence,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2515,0.654916667,K Divergence,CICIDS A
+Naive,,AutoEncoder,0.543088235,-0.316333333,0.52,K Divergence,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.483382353,-0.432083333,0.4915,K Divergence,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.903308824,0.08275,0.441583333,K Divergence,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.793308824,-0.0975,0.631583333,K Divergence,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.62,-0.11875,0.6375,K Divergence,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.903161765,0.025083333,0.5925,K Divergence,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.572720588,-0.1395,0.479166667,K Divergence,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.956838235,0.079916667,0.56775,K Divergence,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.666617647,-0.150916667,0.6365,K Divergence,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.55,-0.13525,0.625166667,K Divergence,CICIDS C
+Cumulative,,AutoEncoder,0.941544118,0.07075,0.682666667,K Divergence,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.640073529,-0.042416667,0.66975,K Divergence,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613382353,-0.262833333,0.475666667,K Divergence,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.515073529,-0.37075,0.47475,K Divergence,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.472573529,-0.357833333,0.532916667,K Divergence,CICIDS C
+Naive,,AutoEncoder,0.585882353,-0.33575,0.74975,K Divergence,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.521470588,-0.4215,0.571083333,K Divergence,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.934338235,0.083833333,0.51075,K Divergence,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.650661765,-0.221833333,0.64675,K Divergence,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.451470588,-0.169583333,0.584166667,K Divergence,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.950441176,0.049583333,0.790166667,K Divergence,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.649485294,-0.023666667,0.7205,K Divergence,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.914779412,0.060916667,0.484833333,K Divergence,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.689926471,-0.196083333,0.638,K Divergence,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.527352941,-0.048,0.543333333,K Divergence,CICIDS R
+Cumulative,,AutoEncoder,0.897941176,0.033083333,0.575666667,K Divergence,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.587279412,-0.14575,0.555666667,K Divergence,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.660955882,-0.225,0.482416667,K Divergence,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.546176471,-0.407083333,0.551416667,K Divergence,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.456176471,-0.347833333,0.532166667,K Divergence,CICIDS R
+Naive,,AutoEncoder,0.645661765,-0.252333333,0.590583333,K Divergence,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.540294118,-0.32125,0.52725,K Divergence,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.922058824,0.0585,0.454583333,K Divergence,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.647573529,-0.265333333,0.640916667,K Divergence,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.420661765,-0.091583333,0.522083333,K Divergence,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.906544118,0.026083333,0.560333333,K Divergence,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.632867647,-0.159083333,0.58375,K Divergence,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979558824,0.073166667,0.46025,Manhattan,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.788529412,-0.09275,0.636916667,Manhattan,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.081083333,0.587166667,Manhattan,CICIDS A
+Cumulative,,AutoEncoder,0.973823529,0.060083333,0.57025,Manhattan,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.558602941,-0.150416667,0.471833333,Manhattan,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.575220588,-0.399833333,0.412666667,Manhattan,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.524117647,-0.444083333,0.54,Manhattan,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2975,0.652333333,Manhattan,CICIDS A
+Naive,,AutoEncoder,0.651691176,-0.303166667,0.5735,Manhattan,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.527132353,-0.452083333,0.470083333,Manhattan,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974485294,0.083416667,0.441333333,Manhattan,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.785661765,-0.127,0.6365,Manhattan,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.615661765,-0.133583333,0.634916667,Manhattan,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.915,0.022083333,0.464083333,Manhattan,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.579338235,-0.1095,0.473916667,Manhattan,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.981764706,0.081666667,0.538666667,Manhattan,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.658161765,-0.156833333,0.637166667,Manhattan,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.535367647,-0.109833333,0.629916667,Manhattan,CICIDS C
+Cumulative,,AutoEncoder,0.968014706,0.12275,0.694166667,Manhattan,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623382353,-0.063583333,0.658416667,Manhattan,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.591838235,-0.36275,0.4695,Manhattan,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.541397059,-0.379083333,0.507833333,Manhattan,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.453161765,-0.381166667,0.534583333,Manhattan,CICIDS C
+Naive,,AutoEncoder,0.621911765,-0.26275,0.6605,Manhattan,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.568455882,-0.41825,0.538916667,Manhattan,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976102941,0.072083333,0.514333333,Manhattan,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.67125,-0.213333333,0.663416667,Manhattan,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.441691176,-0.138083333,0.5875,Manhattan,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.944632353,0.0595,0.710833333,Manhattan,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.672132353,-0.0735,0.731416667,Manhattan,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983897059,0.05725,0.464666667,Manhattan,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696911765,-0.20875,0.638583333,Manhattan,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.545808824,-0.05725,0.544916667,Manhattan,CICIDS R
+Cumulative,,AutoEncoder,0.981764706,0.101166667,0.596166667,Manhattan,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619264706,-0.109416667,0.5375,Manhattan,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.582720588,-0.363,0.49725,Manhattan,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526911765,-0.431,0.539666667,Manhattan,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.444852941,-0.444166667,0.512083333,Manhattan,CICIDS R
+Naive,,AutoEncoder,0.62875,-0.30475,0.48425,Manhattan,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586102941,-0.37825,0.5085,Manhattan,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978382353,0.045666667,0.447416667,Manhattan,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.688014706,-0.246916667,0.632916667,Manhattan,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.449485294,-0.181833333,0.523583333,Manhattan,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.960955882,0.07175,0.6065,Manhattan,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.645808824,-0.14225,0.553916667,Manhattan,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.952941176,0.170416667,0.445166667,Neyman Chi Square,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.785,0.031583333,0.61775,Neyman Chi Square,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.596397059,-0.030333333,0.58225,Neyman Chi Square,CICIDS A
+Cumulative,,AutoEncoder,0.955661765,0.229583333,0.51175,Neyman Chi Square,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.560661765,-0.011166667,0.464833333,Neyman Chi Square,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.635735294,-0.196,0.453583333,Neyman Chi Square,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.483308824,-0.325583333,0.486916667,Neyman Chi Square,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.738970588,-0.085416667,0.631,Neyman Chi Square,CICIDS A
+Naive,,AutoEncoder,0.685808824,-0.140416667,0.637833333,Neyman Chi Square,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.555808824,-0.236833333,0.451583333,Neyman Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.955882353,0.157416667,0.446583333,Neyman Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.793823529,0.022833333,0.615583333,Neyman Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.623970588,-0.039,0.619583333,Neyman Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.937573529,0.221666667,0.4565,Neyman Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.586764706,0.041416667,0.47075,Neyman Chi Square,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.960147059,0.131166667,0.524083333,Neyman Chi Square,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.659338235,-0.098833333,0.646583333,Neyman Chi Square,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.557279412,-0.053416667,0.633583333,Neyman Chi Square,CICIDS C
+Cumulative,,AutoEncoder,0.971544118,0.042916667,0.729083333,Neyman Chi Square,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.628602941,0.01675,0.661416667,Neyman Chi Square,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.59375,-0.290083333,0.450333333,Neyman Chi Square,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.590514706,-0.223083333,0.469166667,Neyman Chi Square,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.409485294,-0.261916667,0.496333333,Neyman Chi Square,CICIDS C
+Naive,,AutoEncoder,0.682794118,-0.219166667,0.71275,Neyman Chi Square,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.544117647,-0.379166667,0.54775,Neyman Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.965,0.081583333,0.51175,Neyman Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.677352941,-0.144,0.646166667,Neyman Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.469779412,-0.100166667,0.594166667,Neyman Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.964852941,0.042333333,0.677,Neyman Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.680294118,-0.076,0.747416667,Neyman Chi Square,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.943676471,0.16725,0.467583333,Neyman Chi Square,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.694264706,-0.229166667,0.644916667,Neyman Chi Square,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.550367647,-0.047,0.551666667,Neyman Chi Square,CICIDS R
+Cumulative,,AutoEncoder,0.947279412,0.07775,0.56425,Neyman Chi Square,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.628602941,-0.047666667,0.530583333,Neyman Chi Square,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.602794118,-0.218083333,0.457583333,Neyman Chi Square,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.54375,-0.445,0.48625,Neyman Chi Square,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.414411765,-0.434666667,0.468,Neyman Chi Square,CICIDS R
+Naive,,AutoEncoder,0.551985294,-0.388666667,0.542833333,Neyman Chi Square,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.555588235,-0.287833333,0.518833333,Neyman Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.939044118,0.13175,0.443833333,Neyman Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.664485294,-0.288583333,0.624,Neyman Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.438676471,-0.161916667,0.529916667,Neyman Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.928970588,0.07425,0.5455,Neyman Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.668676471,-0.0615,0.545083333,Neyman Chi Square,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978970588,0.113833333,0.446333333,Nonintersection,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.782573529,0.007333333,0.610166667,Nonintersection,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.591544118,-0.055666667,0.580083333,Nonintersection,CICIDS A
+Cumulative,,AutoEncoder,0.972794118,0.147666667,0.530583333,Nonintersection,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.560441176,-0.051833333,0.468166667,Nonintersection,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.571102941,-0.372916667,0.44375,Nonintersection,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.545147059,-0.318833333,0.503333333,Nonintersection,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.690147059,-0.193333333,0.6495,Nonintersection,CICIDS A
+Naive,,AutoEncoder,0.545514706,-0.228,0.41,Nonintersection,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.523455882,-0.362166667,0.481333333,Nonintersection,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979044118,0.102916667,0.427916667,Nonintersection,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.791102941,-0.01625,0.60725,Nonintersection,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.611029412,-0.065916667,0.627,Nonintersection,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.955661765,0.116083333,0.52625,Nonintersection,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.584411765,-0.003166667,0.471416667,Nonintersection,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.981838235,0.058,0.52025,Nonintersection,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.665808824,-0.220666667,0.641666667,Nonintersection,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.550735294,-0.124916667,0.631166667,Nonintersection,CICIDS C
+Cumulative,,AutoEncoder,0.985,0.089,0.73275,Nonintersection,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623308824,-0.007666667,0.654083333,Nonintersection,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.628088235,-0.342916667,0.468,Nonintersection,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.573602941,-0.418583333,0.50175,Nonintersection,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.446911765,-0.454333333,0.516416667,Nonintersection,CICIDS C
+Naive,,AutoEncoder,0.684558824,-0.223916667,0.592,Nonintersection,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.575220588,-0.443916667,0.539083333,Nonintersection,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974264706,0.083,0.519333333,Nonintersection,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.661764706,-0.33575,0.644666667,Nonintersection,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.454779412,-0.160916667,0.587916667,Nonintersection,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.971544118,0.0315,0.716166667,Nonintersection,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.664852941,-0.040166667,0.728,Nonintersection,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.973014706,0.082166667,0.456333333,Nonintersection,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696176471,-0.208333333,0.639416667,Nonintersection,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.548308824,-0.04525,0.545416667,Nonintersection,CICIDS R
+Cumulative,,AutoEncoder,0.979191176,0.092416667,0.647416667,Nonintersection,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.627573529,-0.091083333,0.536166667,Nonintersection,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.584852941,-0.3235,0.476416667,Nonintersection,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.541102941,-0.42,0.534166667,Nonintersection,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.458455882,-0.439166667,0.50025,Nonintersection,CICIDS R
+Naive,,AutoEncoder,0.629926471,-0.334583333,0.574583333,Nonintersection,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.567205882,-0.3705,0.5085,Nonintersection,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.973970588,0.081166667,0.439083333,Nonintersection,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.679117647,-0.24575,0.6395,Nonintersection,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.434852941,-0.18675,0.5245,Nonintersection,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.978308824,0.11375,0.612416667,Nonintersection,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.661691176,-0.11375,0.552,Nonintersection,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.977426471,0.094916667,0.46025,Squared Chord,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.787205882,-0.067583333,0.641166667,Squared Chord,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.591911765,-0.059833333,0.590083333,Squared Chord,CICIDS A
+Cumulative,,AutoEncoder,0.967794118,0.132166667,0.524583333,Squared Chord,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.55625,-0.13725,0.470916667,Squared Chord,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.55375,-0.3465,0.400333333,Squared Chord,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.517794118,-0.384583333,0.539416667,Squared Chord,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.652867647,-0.255583333,0.645666667,Squared Chord,CICIDS A
+Naive,,AutoEncoder,0.634779412,-0.2155,0.634416667,Squared Chord,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.523823529,-0.400833333,0.464333333,Squared Chord,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.967279412,0.158,0.441583333,Squared Chord,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.777794118,-0.06475,0.633166667,Squared Chord,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.614558824,-0.122416667,0.63775,Squared Chord,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.950514706,0.117083333,0.54475,Squared Chord,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.571323529,-0.075666667,0.47325,Squared Chord,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.982573529,0.081666667,0.53225,Squared Chord,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.650073529,-0.092666667,0.638333333,Squared Chord,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.537279412,-0.104333333,0.6295,Squared Chord,CICIDS C
+Cumulative,,AutoEncoder,0.970147059,0.07775,0.7175,Squared Chord,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.622426471,-0.034666667,0.662666667,Squared Chord,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.5975,-0.315583333,0.466833333,Squared Chord,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.551176471,-0.443416667,0.552,Squared Chord,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.453970588,-0.385916667,0.544333333,Squared Chord,CICIDS C
+Naive,,AutoEncoder,0.604779412,-0.207,0.675333333,Squared Chord,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.57625,-0.36775,0.544166667,Squared Chord,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983823529,0.011916667,0.53425,Squared Chord,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.661985294,-0.214166667,0.667833333,Squared Chord,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.442058824,-0.128416667,0.58775,Squared Chord,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.951102941,0.064666667,0.702083333,Squared Chord,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.669338235,-0.035,0.736333333,Squared Chord,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983970588,0.057333333,0.460083333,Squared Chord,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.688602941,-0.135666667,0.643,Squared Chord,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.538970588,-0.028333333,0.547416667,Squared Chord,CICIDS R
+Cumulative,,AutoEncoder,0.971397059,0.14775,0.653166667,Squared Chord,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.620735294,-0.079416667,0.539833333,Squared Chord,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.567352941,-0.314166667,0.517583333,Squared Chord,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.547720588,-0.326583333,0.550083333,Squared Chord,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.437867647,-0.377,0.5245,Squared Chord,CICIDS R
+Naive,,AutoEncoder,0.650588235,-0.207166667,0.627166667,Squared Chord,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.593161765,-0.328583333,0.5015,Squared Chord,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.969338235,0.131916667,0.412833333,Squared Chord,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.676102941,-0.1695,0.643833333,Squared Chord,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.445735294,-0.155666667,0.531166667,Squared Chord,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.961176471,0.089916667,0.5875,Squared Chord,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.631985294,-0.077916667,0.562416667,Squared Chord,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.979558824,0.073166667,0.46025,Squared Chi Square,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.788529412,-0.09275,0.636916667,Squared Chi Square,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.593014706,-0.081083333,0.587166667,Squared Chi Square,CICIDS A
+Cumulative,,AutoEncoder,0.974705882,0.060833333,0.532416667,Squared Chi Square,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.558602941,-0.150416667,0.471833333,Squared Chi Square,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.575220588,-0.399833333,0.412666667,Squared Chi Square,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.524117647,-0.444083333,0.54,Squared Chi Square,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.662941176,-0.2975,0.652333333,Squared Chi Square,CICIDS A
+Naive,,AutoEncoder,0.659117647,-0.298583333,0.636166667,Squared Chi Square,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.527132353,-0.452083333,0.470083333,Squared Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.975661765,0.065833333,0.458083333,Squared Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.781029412,-0.128916667,0.634583333,Squared Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.615808824,-0.134166667,0.635583333,Squared Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.953088235,0.041166667,0.556916667,Squared Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.578823529,-0.10925,0.473416667,Squared Chi Square,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.982573529,0.081666667,0.538666667,Squared Chi Square,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.658161765,-0.156833333,0.637166667,Squared Chi Square,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.535367647,-0.109833333,0.629916667,Squared Chi Square,CICIDS C
+Cumulative,,AutoEncoder,0.983676471,0.079666667,0.751083333,Squared Chi Square,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.623382353,-0.063583333,0.658416667,Squared Chi Square,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.602352941,-0.35175,0.469833333,Squared Chi Square,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.544117647,-0.386083333,0.51175,Squared Chi Square,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.450514706,-0.381833333,0.53325,Squared Chi Square,CICIDS C
+Naive,,AutoEncoder,0.624485294,-0.250333333,0.659083333,Squared Chi Square,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.567794118,-0.419,0.543083333,Squared Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976323529,0.071916667,0.514,Squared Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.662426471,-0.226083333,0.64875,Squared Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.440661765,-0.1375,0.5875,Squared Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.965220588,0.029333333,0.734333333,Squared Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.672205882,-0.073416667,0.733583333,Squared Chi Square,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.983897059,0.05725,0.464666667,Squared Chi Square,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.696911765,-0.20875,0.638583333,Squared Chi Square,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.545808824,-0.05725,0.544916667,Squared Chi Square,CICIDS R
+Cumulative,,AutoEncoder,0.979264706,0.068666667,0.644333333,Squared Chi Square,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619264706,-0.109416667,0.5375,Squared Chi Square,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.582720588,-0.36375,0.49725,Squared Chi Square,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526911765,-0.431,0.539666667,Squared Chi Square,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.444852941,-0.444166667,0.512083333,Squared Chi Square,CICIDS R
+Naive,,AutoEncoder,0.579558824,-0.408333333,0.598666667,Squared Chi Square,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.586102941,-0.37825,0.5085,Squared Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.978602941,0.048333333,0.4505,Squared Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.681691176,-0.248833333,0.64125,Squared Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.449485294,-0.18425,0.5235,Squared Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.96625,0.031333333,0.61875,Squared Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.645073529,-0.14525,0.55425,Squared Chi Square,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.956764706,0.118416667,0.46125,Vicis Sym Chi Square,CICIDS A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.781911765,0.07975,0.613583333,Vicis Sym Chi Square,CICIDS A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.595955882,-0.017166667,0.584166667,Vicis Sym Chi Square,CICIDS A
+Cumulative,,AutoEncoder,0.958970588,0.208,0.52375,Vicis Sym Chi Square,CICIDS A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.562867647,-0.033833333,0.457333333,Vicis Sym Chi Square,CICIDS A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.645,-0.212083333,0.51825,Vicis Sym Chi Square,CICIDS A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.470367647,-0.302666667,0.457166667,Vicis Sym Chi Square,CICIDS A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.740588235,-0.057583333,0.659583333,Vicis Sym Chi Square,CICIDS A
+Naive,,AutoEncoder,0.511911765,-0.292583333,0.549833333,Vicis Sym Chi Square,CICIDS A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.558529412,-0.259,0.469416667,Vicis Sym Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.960735294,0.109666667,0.46025,Vicis Sym Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.793088235,0.02775,0.626583333,Vicis Sym Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.622720588,-0.028416667,0.631666667,Vicis Sym Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,AutoEncoder,0.951764706,0.178,0.4905,Vicis Sym Chi Square,CICIDS A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.593529412,-0.011166667,0.465916667,Vicis Sym Chi Square,CICIDS A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974926471,0.066833333,0.555333333,Vicis Sym Chi Square,CICIDS C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.662205882,-0.121083333,0.645833333,Vicis Sym Chi Square,CICIDS C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.527279412,-0.125333333,0.626833333,Vicis Sym Chi Square,CICIDS C
+Cumulative,,AutoEncoder,0.967867647,0.160916667,0.737583333,Vicis Sym Chi Square,CICIDS C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.619926471,-0.037333333,0.661333333,Vicis Sym Chi Square,CICIDS C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.564411765,-0.323583333,0.540416667,Vicis Sym Chi Square,CICIDS C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.526102941,-0.302583333,0.450166667,Vicis Sym Chi Square,CICIDS C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.446176471,-0.3195,0.527666667,Vicis Sym Chi Square,CICIDS C
+Naive,,AutoEncoder,0.492647059,-0.442583333,0.62275,Vicis Sym Chi Square,CICIDS C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.522279412,-0.42525,0.602833333,Vicis Sym Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.976029412,0.064583333,0.53325,Vicis Sym Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.651323529,-0.201833333,0.633416667,Vicis Sym Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.447058824,-0.136083333,0.58125,Vicis Sym Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,AutoEncoder,0.941838235,0.042666667,0.743333333,Vicis Sym Chi Square,CICIDS C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.651102941,-0.045,0.730916667,Vicis Sym Chi Square,CICIDS C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.973676471,0.064,0.472833333,Vicis Sym Chi Square,CICIDS R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.692867647,-0.132166667,0.634333333,Vicis Sym Chi Square,CICIDS R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.539779412,-0.063583333,0.549416667,Vicis Sym Chi Square,CICIDS R
+Cumulative,,AutoEncoder,0.972941176,0.073166667,0.578333333,Vicis Sym Chi Square,CICIDS R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.645514706,-0.091666667,0.5295,Vicis Sym Chi Square,CICIDS R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.571838235,-0.3675,0.526333333,Vicis Sym Chi Square,CICIDS R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.48875,-0.346,0.468666667,Vicis Sym Chi Square,CICIDS R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.405367647,-0.38175,0.490416667,Vicis Sym Chi Square,CICIDS R
+Naive,,AutoEncoder,0.591544118,-0.37075,0.568916667,Vicis Sym Chi Square,CICIDS R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.603161765,-0.333083333,0.517833333,Vicis Sym Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.974485294,0.066583333,0.445583333,Vicis Sym Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.67875,-0.211583333,0.639333333,Vicis Sym Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.437058824,-0.089583333,0.529083333,Vicis Sym Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,AutoEncoder,0.920955882,0.0265,0.5985,Vicis Sym Chi Square,CICIDS R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.682941176,-0.1265,0.5615,Vicis Sym Chi Square,CICIDS R
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613529412,0.057916667,0.5,Chebyshev Min,cicids-A
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.591323529,0.00825,0.556666667,Chebyshev Min,cicids-A
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.674411765,-0.014083333,0.676083333,Chebyshev Min,cicids-A
+Cumulative,,AutoEncoder,0.561911765,0.058666667,0.532833333,Chebyshev Min,cicids-A
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.384411765,0.01925,0.40825,Chebyshev Min,cicids-A
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613529412,0.057916667,0.5,Chebyshev Min,cicids-A
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.591323529,0.00825,0.556666667,Chebyshev Min,cicids-A
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.674411765,-0.014083333,0.676083333,Chebyshev Min,cicids-A
+Naive,,AutoEncoder,0.595294118,0.056,0.456416667,Chebyshev Min,cicids-A
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.384411765,0.01925,0.40825,Chebyshev Min,cicids-A
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613529412,0.057916667,0.5,Chebyshev Min,cicids-A
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.591323529,0.00825,0.556666667,Chebyshev Min,cicids-A
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.674411765,-0.014083333,0.676083333,Chebyshev Min,cicids-A
+Replay,budget=0.2_compact_True,AutoEncoder,0.687132353,0.044,0.625166667,Chebyshev Min,cicids-A
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.384411765,0.01925,0.40825,Chebyshev Min,cicids-A
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613161765,0.057583333,0.5,Chebyshev Min,cicids-C
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.581176471,-0.003416667,0.65675,Chebyshev Min,cicids-C
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.465661765,0.012666667,0.490333333,Chebyshev Min,cicids-C
+Cumulative,,AutoEncoder,0.528823529,0.071333333,0.462666667,Chebyshev Min,cicids-C
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.438970588,0.016666667,0.6365,Chebyshev Min,cicids-C
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613161765,0.057583333,0.5,Chebyshev Min,cicids-C
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.581176471,-0.003416667,0.65675,Chebyshev Min,cicids-C
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.465661765,0.012666667,0.490333333,Chebyshev Min,cicids-C
+Naive,,AutoEncoder,0.716691176,0.031416667,0.841833333,Chebyshev Min,cicids-C
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.438970588,0.016666667,0.6365,Chebyshev Min,cicids-C
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613161765,0.057583333,0.5,Chebyshev Min,cicids-C
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.581176471,-0.003416667,0.65675,Chebyshev Min,cicids-C
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.465661765,0.012666667,0.490333333,Chebyshev Min,cicids-C
+Replay,budget=0.2_compact_True,AutoEncoder,0.556691176,0.048666667,0.772416667,Chebyshev Min,cicids-C
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.438970588,0.016666667,0.6365,Chebyshev Min,cicids-C
+Cumulative,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613088235,0.0575,0.5,Chebyshev Min,cicids-R
+Cumulative,,IsolationForest(n_jobs=-1_random_state=0),0.588161765,0.010166667,0.527416667,Chebyshev Min,cicids-R
+Cumulative,,COPOD(contamination=0.01_n_jobs=-1),0.374705882,0.018,0.49725,Chebyshev Min,cicids-R
+Cumulative,,AutoEncoder,0.541691176,0.064666667,0.513416667,Chebyshev Min,cicids-R
+Cumulative,,OneClassSVM(cache_size=1000_gamma='auto'),0.525735294,0.001166667,0.614666667,Chebyshev Min,cicids-R
+Naive,,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613088235,0.0575,0.5,Chebyshev Min,cicids-R
+Naive,,IsolationForest(n_jobs=-1_random_state=0),0.588161765,0.010166667,0.527416667,Chebyshev Min,cicids-R
+Naive,,COPOD(contamination=0.01_n_jobs=-1),0.374705882,0.018,0.49725,Chebyshev Min,cicids-R
+Naive,,AutoEncoder,0.74875,0.027333333,0.737416667,Chebyshev Min,cicids-R
+Naive,,OneClassSVM(cache_size=1000_gamma='auto'),0.525735294,0.001166667,0.614666667,Chebyshev Min,cicids-R
+Replay,budget=0.2_compact_True,LocalOutlierFactor(n_jobs=-1_n_neighbors=10_novelty=True),0.613088235,0.0575,0.5,Chebyshev Min,cicids-R
+Replay,budget=0.2_compact_True,IsolationForest(n_jobs=-1_random_state=0),0.588161765,0.010166667,0.527416667,Chebyshev Min,cicids-R
+Replay,budget=0.2_compact_True,COPOD(contamination=0.01_n_jobs=-1),0.374705882,0.018,0.49725,Chebyshev Min,cicids-R
+Replay,budget=0.2_compact_True,AutoEncoder,0.537720588,0.057583333,0.498833333,Chebyshev Min,cicids-R
+Replay,budget=0.2_compact_True,OneClassSVM(cache_size=1000_gamma='auto'),0.525735294,0.001166667,0.614666667,Chebyshev Min,cicids-R
